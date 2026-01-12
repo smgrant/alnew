@@ -1,0 +1,8508 @@
+agree v1
+accede v
+acquiesce v
+assent v/n 1
+assent v/n 2
+article n1
+article n2
+climb v/n
+coat v/n
+coat v/n 2
+even v/adj/adv 2
+fiery adj 1
+fiery adj 2
+fiery adj 3
+foot n2
+guess v/n
+imagine v1
+imagine v2
+interest v/n 2
+lot n2
+lot n3
+mean v2
+means n1
+mouth v/n
+part /from v2
+pound v/n 2
+see v2
+shower v/n
+thirsty adj
+thirst v/n
+ankle n
+argument n 1
+argument n 2
+arrange v1
+arrange v2
+attend v
+avoid v
+void v/n 1
+void v/n 2
+beef n1
+beef v/n 2
+bowl n
+caress v/n
+canoodle v
+catch v/n 1
+catch v/n 2
+certain adj1
+certainly adv
+charity n
+chip n
+compete v
+competitor n
+competitive adj
+consider v1
+consider v2
+contain v1
+contain v2
+curly adj
+enormous adj
+fair adj 2
+fair n 1
+fashion n2
+gap n1
+gap n2
+ground n2
+auxiliary adj
+inventive adj
+jam v/n
+knee n
+lemon n2
+lend v
+give a lift phr
+lift /out v2
+light v1
+matter v/n 1
+matter v/n 2
+narrow adj
+opportunity n
+option n
+particular adj
+in particular phr
+promise v/n 1
+promise v/n 2
+recipe /for n2
+refer v
+rubbish n1
+rubbish n2
+side v/n /with /against 2
+start v/n 2
+jerk v/n 1
+jerk v/n 2
+stomach v2
+storm v/n1
+storm v/n2
+suppose (that)
+be supposed phr
+suppose v
+tidy v/adj
+train /onat v3
+vehicle n
+accommodation n1
+accommodation n2
+account n1
+account n2
+account n3
+admit v1
+admit /to v2
+admittedly adv
+admittance n
+apart adv1
+apart adv2
+apart adv3
+appointment n1
+appointment n2
+appreciate v
+assignment n1
+assignment n2
+authority n1
+bubble v/n
+cap n
+ceiling n
+claim v/n 1
+claim v/n 2
+clause n
+cloth n
+clothe v
+clothes n
+apparel n
+commit v1
+commit v2
+commit v3 
+commit v4
+conclude v1
+conclude v2
+conclusion n1
+conclusion n2
+confuse v
+confused adj
+bewilder v
+content n1
+content n2
+content n3
+contented adj
+convince v
+current n2
+doubt v/n
+due n/adj/adv 2
+due to phr
+edge n
+effective adj2
+embarrassing adj
+engaged adj
+entrance v/n 2
+eventually adv
+excitement n
+expand v1
+expand v2
+fairly adv1
+fairly adv2
+fancy v/n/adj 1
+fancy v/n/adj 2
+fascinating adj
+fasten v
+fold v/n
+frame v/n 1
+frame /up v/n 2
+fur v/n
+gentle adj
+grade n2 
+grade n1
+grateful adj
+immediate adj2
+indeed adv
+intend v1
+intend v2
+intention n
+keen adj1
+keen adj2
+lack v/n
+laic | lay adj
+lay adj
+leisure n/adj
+mess n
+nail n
+narrative n, adj
+odd adj1
+odd adj3
+odd adj2
+pale v
+pale adj2
+pale adj1
+particularly adv
+pin v/n
+pour v
+reference n
+reflect v1
+reflective adj
+release v/n 1
+release v/n 2
+reliable adj
+revise v1
+revise v2
+shell v/n 1
+shell v/n 2
+husk v/n
+shift n
+sink v
+slice v/n 1
+soil v/n
+spring v/n 1
+spring v/n 2 /onupon
+spring v/n 3 /from
+spring v/n 4
+stick v1
+stick v2
+stick v3
+substance n
+tail v/n
+tend v
+tin n
+tiny adj
+toe n
+tour v/n
+treat v1
+treat v2
+treatment n
+trick v/n/adj
+fugly adj
+unfair adj
+upset v 
+waver v1
+waver v2
+wavering n/adj
+account v (for)
+accuse v
+acknowledge v1
+acknowledge v2
+acquire v
+adopt v1
+adopt v2
+affair n1
+afterwards adv
+agenda n
+aid v/n
+anxious adj2
+anxious adj1
+apparent adj1
+apparent adj2
+apparently adv2
+apparently adv1
+appeal v/n
+approach v/n
+assess v
+assessment n
+assume v3
+assume v2
+assume v1
+bar v1
+bar v2
+bar v3
+bear v
+unbearable adj
+bend v/n 1
+bend /to v/n 2
+bent n
+bent adj1
+bitter adj
+bond n2
+bond n1
+brief adj
+broad adj
+bunch n
+burning adj 2
+capacity n1
+capacity n2
+cast v/n
+cast v/n 1
+cast v/n 2
+cite v
+commitment n1
+commitment n2
+commitment n3
+concern v/n 2
+concern v/n 1
+concerned adj
+conduct v/n 1
+conduct v/n 2
+confide v
+confidence n
+conscious adj
+considerate adj
+consideration n
+consistent adj2
+consistent adj1
+inconsistent adj
+contest v/n
+contract v 2
+contractor n
+convert v
+crop v
+crop n
+crucial adj
+preserve v1
+cure v/n 2
+curve v/n
+curved adj
+decent adj
+decline v/n 1
+decline v/n 2
+deliberate adj
+deliberately adv
+intentionally adv
+delight v/n
+delighted adj
+desert v
+desperately adv
+desperate adj
+detail v/n
+downwards adv
+draft v/n
+drag v
+emerge v
+emphasis n
+emphasize v
+engage v1
+engage v2
+engage v3
+enhance v
+enquiry n / inquiry
+ensure v
+estate n
+estimate v/n
+expose v
+exposure v1
+exposure v2
+extend v
+extent n1
+extent n2
+fellow n/adj
+figure v/n 2
+file v/n 3
+file v/n 2
+file v/n 1
+float v/n
+fund v/n
+gain v/n
+govern v
+grade v
+gradually adv
+grand n
+grant v/n 1
+grant v/n 2
+heel n
+hesitate v
+hollow adj
+host v
+imply v1
+imply v2
+impose v1
+impose /onup v3
+impose /on v2
+initial adj
+initially adv
+intended adj
+interpret v1
+interpret v2
+labour n1
+laboured adj1
+laboured adj2
+lean v1
+lean v2
+lean adj3
+load v/n
+lung n
+maintain v1
+maintain v2
+map v/n
+massive adj
+medium n
+melt v
+mount v
+neat adj
+nerve n1
+notion n1
+notion n3
+notion n2
+oblige v
+obligation n
+obtain v
+offend v1
+offend /against v2
+offensive adj1
+offensive adj2
+oppose v
+outcome n
+outer adj
+outline v/n 2
+outline v/n 1
+overall adj/adv
+owe v
+pace v/n
+pick v/n
+pile v/n
+pitch v/n 3
+pitch n1
+pitch n2
+pitch v/n 4
+plot v/n
+pose v2
+pose v1
+praise v/n
+propose v
+pupil n2
+purist n
+pursue v
+range v
+rank v/n
+rapid adj
+recall v2
+recall v3
+regard v/n 1
+regard v/n 2
+regret v/n
+relief n1
+relief n2
+rely v
+resolve v
+resort n1
+resort n2
+resort v
+retain v
+revolution n2
+rev v/n
+rid v
+get rid of phr
+rub v
+rubber n
+rural adj
+scheme v/n1
+scheme v/n2
+sentence v/n 2
+settle v1
+settle v2
+settle v3
+unsettle v
+severe adj
+shade n
+shallow adj
+shape v
+shelter v/n
+ship v
+significant adj
+significantly adv
+sincere adj
+slide v/n
+slight adj1
+slight adj2
+slip v/n 1
+slip v/n 2
+slip v/n 3
+slip of the pen phr
+slip of the tongue phr
+slope v/n
+speed v
+split v/n
+spot v
+spread n
+stare v/n
+steep adj
+stiff adj
+stretch v/n
+stuff v
+submit v2
+survey v/n 1
+survey v/n 2
+swear v1
+swear v2
+sweep v
+tear v/n
+tear n1
+tear n2
+threaten v
+thus adv
+tough adj 1
+tough adj 2
+trip v
+upwards adv
+vast adj
+venue n
+via prep
+whereas conj
+wind v
+wrap v1
+wrap v2
+wrong v/n 2
+accomplish v
+accountant n
+adequate adj
+adequately adv
+adjust v
+alongside prep
+anticipate v
+anxiety n
+applicant n
+aside adv
+asset n1
+asset n2
+assign v2
+assign v1
+assumption n
+assure v
+astonishing adj
+awareness n
+awkward adj
+badge n
+bargain v/n
+beneficial adj
+bias n
+bias v
+biased adj
+bigotry n
+blanket v/n
+boost v/n
+bound up phr
+bound adj1
+bound adj2
+bug v/n 2
+certainty n
+chase v/n
+cheek n
+cheer v/n
+choir n
+clarify v1
+clarify v2
+clip v/n 1
+clip v/n 2
+coincidence n1
+coincidence n2
+conjunction n2
+comparative adj
+compose v
+compound n
+comprehensive adj
+comprise v1
+comprise v2
+compulsory adj
+confess /to v
+confusion n
+consequent n
+consequence n
+consequently adv
+considerable adj
+considerably adv
+consistently adv1
+consistently adv2
+controversial adj
+controversy n
+convention n
+conventional adj
+convey v 1
+convey v 2
+cope v
+crack v/n
+cue n
+curriculum n
+depart v2
+depart v1
+derive v2
+derive v1
+devotion n
+devoted adj
+devote v
+discourage v
+distinct adj1
+distinct adj2
+distinguish v
+indistinct adj
+indistinctly adv
+distract v1
+distract v2
+perplex v
+disturb v
+disturbance n
+drought n
+dull adj1
+dull adj2
+dump v
+editorial adj
+elbow n
+brace v/n 1
+brace v/n 2
+embrace v1
+embrace v2
+emission n
+erupt v
+evaluation n
+evident adj
+evolve v
+exceed v
+excessive adj
+extensive adj
+extensively adv
+fare n1
+fare n2
+feverish adj
+frenetic adj
+firm adj
+firmly adv
+fond of adj
+fond adj
+forbid v
+forecast v/n
+fortunate adj
+fossil n
+fraud n
+freely adv
+fulfil | fulfill v
+gig n
+goodness n
+gorgeous adj
+greenhouse n
+habitat n
+therefore adv
+hence adv1
+hilarious adj
+hip n
+implicate v
+implication n1
+incentive n/adj
+disincentive n
+incorporate v1
+incorporate v2
+inevitable adj 1
+inevitable adj 2
+unavoidable adj
+inference n
+infer v
+inhabitant n
+inherit v
+jet n
+joint n/adj
+kit n
+lane n
+leaflet n
+lens n
+likewise adv
+litter v/n
+magnificent adj
+mate v/n 1
+mate v/n 2
+memorable adj
+commemorative adj
+moreover adv
+mortgage n
+mosque n
+motion n
+nasty adj
+necessity n
+negotiate v
+nursing adj
+nutrition n
+obesity n
+obese adj
+obstacle n
+hindrance n
+offender n
+ongoing adj
+openly adv
+outfit n
+overcome v1
+overcome v2
+overseas adj/adv
+parade v/n 1
+parade v/n 2
+passionate adj
+peer n
+precede v
+precious adj
+preference n
+principal adj
+prior adj
+posterior adj1
+posterior adj2
+anterior adj1
+anterior adj2
+prohibit v1
+prohibit v2
+prompt v2
+prompt v/n 1
+prompt adj
+promptly adv
+protester n
+publicity n
+punk n
+pursuit n
+questionnaire n
+recession n
+reckon /up v1
+reckon v2
+reinforce v
+relieve v
+relieved adj
+alleviate v
+alleviation n
+remarkable adj
+remarkably adv
+resign v
+revenue n
+revision n1
+revision n2
+rival v/n/adj
+roughly adv1
+roughly adv2
+scratch v/n 1
+scratch v2
+screening n
+settler n
+shaped adj
+shortage n
+sibling n
+significance n
+sophisticated adj1
+sophisticated adj2
+spare adj
+spill v
+spite n
+in spite of phr
+spoil v
+spoils n
+stall v/n 1
+stall v2
+steady adj
+steadily adv
+steadfast adj1
+steadfast adj2
+steam n
+strengthen v
+lessen v
+lighten v1
+lighten v2
+strictly adv
+stroke n1
+stroke n2
+stunning adj
+subsequent adj
+subsequently adv
+suburb n
+sufficient adj
+sufficiently adv
+suspend v
+swallow v
+sympathetic adj
+tackle v/n 1
+tackle v/n 2
+tag n
+tap v/n
+tension n
+tense adj
+terrify v
+theft n
+heist n
+thorough adj1
+thorough adj2
+thoroughly adv
+tissue n3
+tissue n2
+tissue n1
+ton n
+tonne n
+trace v
+trait n
+transmit v
+uncertainty n
+undergo v
+undertake v1
+undertake v2
+undertake v3
+unfold v
+wander v/n
+roam v/n
+ramble v/n
+jaunt v/n
+weird adj
+welfare n1
+welfare n2
+whilst conj
+whoever pron
+workforce n
+wrist n
+abolish v
+abolishment /abolition n
+abundance n1
+abundance n2
+abuse v/n 2
+abuse v/n 1
+accelerate v
+acceptance n1
+acceptance n2
+accomplishment n
+accordingly adv
+accountability n
+accountable adj
+accusation n
+accused n
+culprit n
+culpability n
+acquisition n
+acute adj1
+acute adj2
+adhere v1
+adhere /to v2
+adherence n
+adjacent adj
+adolescent n
+adolescence n
+adverse adj
+aesthetic adj
+aftermath n
+aide n
+albeit conj
+alignment n
+allegation n
+allege v
+allegedly adv
+allocate v1
+allocate v2
+amend v
+amendment n
+mend v
+emend v
+amid prep
+apparatus n
+applicable adj
+appoint v
+arbitrary adj
+arguably adv
+arm v
+articulate v
+aspiration n
+aspire v
+spire n1
+assault v/n 1
+assault v/n 2
+assail v1
+assail v2
+assail v3
+assemble v1
+assemble v2
+assembly n
+assert v
+aver v
+assertion n
+assurance n1
+assurance n2
+asylum n
+atrocity n
+ferocity n
+reciprocity n
+attain v
+attendance n
+attribute v/n
+authentic adj
+await v
+backdrop n
+backing n
+bail n
+ballot n
+bare v/adj 1
+bare adj 2
+barrel n1
+barrel n2
+bass n
+beam n2
+beam v/n 1
+on behalf of phr
+in behalf of phr
+bench n
+benchmark n
+beneath prep
+beneficiary n
+bishop n
+bizarre adj
+blast v/n
+bleed v
+blend v/n
+boast v/n
+brag v/n
+boom n1
+boom n2
+bounce v/n
+bow v/n 1
+bow v/n 2
+breach v/n 1
+breach v/n 2
+breach v/n 3
+rupture v/n 1
+rupture v/n 2
+breakdown n
+breakthrough n1
+breakthrough n2
+breed v/n 1
+breed v/n 2
+broadband n
+buck n
+buffer n
+bulk v/n
+bulk up /out phr
+in bulk phr
+burden v/n
+burial n
+burst v
+outburst n
+carriage n
+carve v
+cater v
+cease v
+ceaseless adj
+desist v
+charm n1
+charm n2
+chunk n
+circulate v
+circulation n
+revolve v
+citizenship n
+clarity n1
+clarity n2
+lucidity n1
+clash v/n
+cling v
+closure n
+coastal adj
+coincide v
+collaborate v
+collective n/adj
+columnist n
+combat v/n
+commence v
+recommence v
+commencement n
+commentary n
+commodity n1
+commodity n2
+comparable adj
+compassion n
+compel v
+compelling adj1
+compelling adj2
+compensate v
+compensation n
+compile v
+complement v/n
+complexity n
+complication n
+compliance n
+comply /with v
+conform v1
+conform v2
+compromise v/n 1
+compromise v/n 2
+concealed adj
+conceal v1
+conceal v2
+concede v2
+concede v1
+concede v3
+conceive v2
+conceive v1
+conceived as phr
+conceive /of v
+preconceive v
+preconceived adj
+conception n
+concession n
+concessive adj
+condemn v1
+condemn v2
+confer /with v1
+confer /on v2
+confession n
+confine n
+confine v
+confront v
+confrontation n
+congregation n
+congressional adj
+conscience n
+consciousness n
+consecutive adj
+consent v/n
+conserve v
+consolidate v1
+consolidate v2
+constituency n
+constitute v
+constitution n
+constitutional adj
+constraint n
+contemplate v1
+contemplate v2
+contempt n
+disdain v/n
+despise v
+scorn v/n
+contend v1
+contend v2
+contender n
+contention n
+contradiction n
+contradict v
+contradictory adj
+contrary n/adj
+contributor n
+convict v/n
+convict v2
+convictions n3
+conviction n1
+conviction n2
+cop n1
+cop n2
+correspond /withto v1
+correspond v2
+correspondence n
+correspondent n
+corresponding adj
+corrupt adj1
+corrupt adj2
+corruption n1
+corruption n2
+corruption n3
+corruption n4
+contamination n
+contaminate v
+befoul v
+councillor n
+counselling n
+counsellor n
+counter n/adj/adv
+counter v
+counterpart n
+coup n1
+coup n2
+courtesy n
+courteous adj
+crawl v/n
+credibility n
+credible adj
+creep v
+creeps n
+crude adj1
+crude adj2
+coarse adj1
+coarse adj2
+crush v1
+crush /up v2
+crumple v
+rumple v
+cultivate v
+refine v1
+refine v2
+custody n1
+custody n2
+cutting n/adj 1
+cutting adj 2
+cynical adj
+dam v/n
+dawn v/n 1
+dawn v/n 2
+debris n1
+debris n2
+debut n
+decisive adj1
+decisive adj2
+indecisive adj
+deed n
+deem v
+deficiency n
+deficit n
+defy v1
+denounce v
+dense adj
+density n
+depict v1
+depict v2
+deploy v
+deployment n
+deprivation n
+deprive v
+transcend v
+surpass v
+ascend v
+descend v
+descent n1
+descent n2
+condescend v
+deign v
+designation n1
+designation n2
+designate v1
+designate v2
+detain v1
+detain v2
+detention n
+deteriorate v
+deterioration n1
+deterioration n2
+devastate v
+ravage v/n
+devise v
+dictate v1
+dictate v2
+differentiate v
+dignity n
+diminish v
+dip v
+dunk v
+immerse v1
+immerse v2
+engross v
+discard v2
+discard v1
+discharge v
+disclose v
+disclosure n
+discourse v/n
+discreet adj
+discretion n1
+discretion n2
+indiscreet adj
+dismissal n
+displace v
+disposal n
+dispose /of v1
+dispose v2
+dispute v/n
+disrupt v1
+disrupt v2
+disruption n
+disrupting /disruptive adj
+dissolve v1
+dissolve v2
+distinction n
+distinctive adj1
+distinctive adj2
+distort v
+distress v/n
+divert v2
+divert v1
+divine adj
+domain n1
+domain n2
+dose v/n
+drain v
+drift v
+drown v
+dub v1
+dub v2
+earnings n
+ease v/n 1
+ease v/n 2
+echo v/n
+educator n
+efficiency n
+elaborate adj
+elaborate v
+elevate v1
+elevate v2
+eligible adj1
+eligible adj2
+embark v
+embarrassment n
+embed v / imbed
+embody v
+empower v2
+empower v1
+empower v3
+enact v2
+enact v1
+enact / be enacted v3
+encompass v
+endeavour v/n
+endorse v1
+endorse v2
+endorsement n
+endure v1
+endure v2
+enforce v
+enforcement n
+engagement n2
+engagement n1
+engaging adj
+enquire v
+enrich v
+enrol v
+ensuing adj
+ensue /from v
+entitle v
+entity n
+equality n
+equation n2
+equation n1
+equate v
+erect v
+erect adj/adv
+escalate v
+essence n
+evoke v
+exaggerate v
+exceptional adj
+excess n/adj
+exclusion n
+exclusive adj
+exclusively adv
+execute v
+execution n
+exert v1 /oneself
+exert v2
+exile v/n
+banish v
+expenditure n
+expire v
+explicit adj2
+explicit adj1
+explicitly adv
+exploitation n
+facile adj1
+facile adj2
+facilitate v
+superficial adj
+superficially adv
+faction n
+faculty n
+fade v1
+fade v2 / away/out
+fairness n
+favourable adj
+baffling adj
+baffle v
+feat n
+fibre n
+fierce adj
+fine n
+fit n
+fixture / fixtures n
+flaw n
+flawed adj
+flee v
+fleet n
+flesh n
+flourish v2
+flourish v1
+footage n
+forge v1
+forge v2
+forth adv
+forthcoming adj
+foster v
+fragile adj
+frankly adv
+frank adj
+candid adj1
+candid adj2
+frustrated adj
+frustrating adj
+frustration n1
+frustration n2
+fundraising n
+gaze v/n
+glance v/n
+glimpse n
+governance n
+grace n1
+grace n2
+grace v/n 3
+disgrace v/n
+grasp v/n 1
+grasp v/n 2
+grave n
+grave adj
+grid n
+grieve v
+grief n
+grin v
+grind v
+grip v/n
+guidance n
+gut n1
+gut /s n2
+innards n
+hail v/n 1
+hail v/n 2
+hail /from v/n 3
+halt v/n 1
+halt v/n 2
+handful n
+handling n
+harsh adj1
+harsh adj2
+hatred n
+haunt v
+hazard n
+heighten v
+heritage n
+heir n
+high-profile adj
+hint v/n
+homeland n
+hook v/n
+horizon n2
+horizon n1
+horn n
+hostility n
+humble adj
+hydrogen n
+ignorance n
+imagery n1
+imagery n2
+immense adj
+immensely adv
+imminent adj
+implement v/n
+implementation n
+imprison v
+imprisonment n
+inadequate adj
+appropriate adj 2
+appropriate v1
+inappropriate adj
+incidence n
+inclined adj 2
+inclined adj 1
+proclivity n
+inclusion n
+incur v
+indict v
+indictment n
+indigenous adj
+induce v
+seduce v
+indulge v
+inequality n
+infamous adj
+infant n
+inflict v
+influential adj
+inherent adj
+inherently adv
+inhibit v
+hinder v
+inject v
+injection n
+inmate n
+inspiration n
+instruct v
+insult v/n
+intact adj
+intake n1
+intake n2
+integrity n
+intensify v
+intensity n
+intensive adj
+intent /upon adj 1
+intent /upon adj 2
+intent n
+interfere v1
+interfere /with v2
+interference n
+interim n1
+interim adj2
+interior n/adj
+intervene v
+intervention n
+intimate adj
+intriguing adj
+invoke v1
+invoke v2
+invocation n1
+invocation n2
+revoke v1
+revocation n
+decree v/n
+involvement n
+judicial adj
+junction n1
+junction n2
+justification n
+lass n
+lad n
+lap n2
+latter n/adj
+lawn n
+leak v/n
+leap v/n
+bequeath v
+bequest n
+legacy n
+legislation n
+legislative adj
+legislature n
+legitimate adj 1
+legitimate adj 2
+lengthy adj
+liable adj 1
+liable adj 2
+liberty n
+license v
+lifelong adj
+likelihood n
+limb n
+linear adj
+line-up n
+linger v1
+linger v2 
+linger v3
+tarry v2
+literacy n
+liver n
+lobby n1
+lobby v/n 2
+log v/n 1
+log v/n
+long-standing adj
+long-term adj
+long-time adj
+loom v
+machinery n
+magistrate n
+magnitude n
+mainland n
+mandate v/n
+mandatory adj
+manifest adj
+manifest v1
+march v/n 1
+march v/n 2
+marginal adj1
+marginal adj2
+marine adj
+mature v/adj
+meaningful adj
+indispensable adj
+dispensable adj
+dispense v
+dispense /with v2
+meantime n
+memo n /memorandum
+memoir n
+mercy n
+mere adj
+merely adv
+merge v
+merger n1
+merit v/n
+midst n
+militant n/adj
+minute adj
+misery n
+misleading adj
+mob v/n 1
+mob v/n 2
+mobster n
+moderate adj
+momentum n
+morality n
+mutual adj
+namely adv
+nationwide adj
+naval adj
+neglect v
+disregard v/n
+neighbouring adj
+net adj
+niche v/n
+nod v/n
+nominee n
+nonetheless adv
+notable adj
+notably adv
+notorious adj
+novel adj
+nursery n
+objection n
+obsess v
+obsession n
+occurrence n1
+occurrence n2
+odds n
+offering n
+offspring n
+opt /for v
+originate v
+outbreak n
+outing n
+outlet n
+inlet n
+outlook n1
+outlook n2
+outrage n2
+outrage n1
+overlook v2
+overlook v1
+overly adv
+oversee v
+overturn v1
+overturn v2
+overwhelm v
+overwhelming adj
+pad v/n
+parental adj
+parish n
+patch n2
+patch n1
+patent v/n
+pathway n
+patron n1
+patron n2
+peak n
+peculiar adj
+persist v
+persistent adj
+pioneer v/n
+pipeline n
+pit n
+plea n
+plead v1
+plead v2
+pledge v/n
+pledge v/n 2
+plug v/n
+plunge v/n
+pole n
+pond n
+pop up phr
+pop v/n
+portray v
+postpone v
+practitioner n
+preach v
+precedent n
+precision n
+predecessor n
+predominantly adv
+prejudice n
+preliminary adj
+premise n
+prescribe v
+prescription n
+preservation n
+preside v
+presumably adv
+presume v
+prevail v
+prevalence n
+prevention n
+probe v/n
+proceedings n
+proceeds n
+proclaim v
+productive adj
+profound adj
+projection n1
+projection n2
+prominent adj 1
+prominent adj 2
+prominence n
+pronounced adj 1
+pronounced adj 2
+proposition n
+prosecute v
+prosecution n
+prosecutor n
+prospective adj
+prosperity n
+provoke v
+pump v/n
+pumped up phr
+query v/n
+quota n
+rage n1
+rage n2
+raid n
+rally v/n 1
+ratio n
+ray v/n
+readily adv
+realm n
+rear n/adj
+reassure v
+reasoning n
+rebellion n
+recipient n
+recount v
+reflection n
+refuge n
+refusal n
+regain v
+regardless /of adv
+regime n
+regulatory adj
+rehabilitation n
+reign v/n
+rejection n
+relevance n
+reliability n
+reluctant adj
+reluctantly adv
+remainder n
+remains n
+remedy n
+removal n
+render v1
+render v2
+renew v
+renowned adj
+unowned adj
+rental n
+reportedly adv
+resemblance n
+resembling adj
+resemble v
+reside v
+residential adj
+residue n
+resignation n1
+respective adj
+respectively adv
+restoration n
+restraint n
+restrain v
+retreat v/n
+retrieve v
+revelation n
+revenge v/n
+avenge v
+reverse v/n/adj
+revival n
+revive v
+rhetoric n
+riot v/n
+rip v
+robust adj
+rock v
+rod n
+ruling n
+sack v
+sacred adj
+sacrifice v/n
+saint n
+sake n
+scattered adj1
+scattered adj2
+scatter v
+scope n
+screw v
+scrutiny n
+scrutinize v
+seal v/n
+secular adj
+seemingly adv
+seize v
+sentiment n1
+sentiment /s n3
+sentiment n2
+separation n
+serial adj
+settlement n
+shareholder n
+shatter v1
+shatter v2
+shed n
+shed v2
+shed v1
+sheer adj/adv 1
+sheer adj/adv 2
+shipping n
+shrink v
+shrug v/n
+sigh v/n
+simultaneously adv
+situated adj
+skip v2
+skip v1
+slam v1
+slam v2
+slap v
+slash v
+slot n
+smash v
+snap v1
+snap v2
+snap adj3
+snap v/n 4
+soak v1
+soak /up v2
+soar v1
+soar v2
+sole adj
+solely adv
+solicitor n
+solidarity n
+sound adj
+span v/n
+spare v
+spark v/n 1
+spark v/n 2
+spark v/n 3
+spark v/n 4
+specialized adj
+specimen n
+spectacle n
+spectrum n
+spell n1
+spell n2
+spin v/n
+spine n
+spotlight n1
+spotlight n2
+spouse n
+squeeze v/n 1
+squeeze v/n 2
+stab v
+pierce v1
+pierce /throughinto v2
+stake n1
+stake n2
+stark adj1
+stark adj2
+steer v1
+steer v/n 2
+stem v/n 1
+stem v/n 2
+stalk n1
+stalk v/n 2
+stimulus n
+stir v
+straightforward adj1
+straightforward adj2
+strain v/n 1
+strain v/n 2
+strain n 3
+strand n1
+strand n2
+striking adj1
+striking adj2
+strip n
+strip v1
+strip v2
+strip /of v2
+strive v
+stumble v
+stun v
+submission n1
+submission n2
+obedience n
+subsidy n
+substantial adj
+substantially adv
+substitute v/n
+substitution n
+subtle adj1
+subtle adj2
+suburban adj
+succession n2
+succession n1
+successive adj
+successor n
+suck v
+sue v
+summit n
+superb adj
+supervise v
+supervision n
+supervisor n
+supplement v/n
+supportive adj
+suppress v
+supreme adj
+surge n1
+surge n2
+surge v
+surgical adj1
+surgical adj2
+surplus n/adj
+surrender v
+surveillance n
+suspension n
+suspicion n
+suspicious adj
+sustain v
+sustainable adj.
+sustained adj
+sustenance n1
+sustenance n2
+swing v/n 1
+swing v/n 2
+synthesis n
+tempt v
+temptation n
+tenant n
+tender adj
+tenure n
+testify v
+testimony n
+thankfully adv
+thereafter adv
+thereby adv
+thoughtful adj1
+thoughtful adj2
+thought-provoking adj
+thread n
+threshold n
+thrilled adj
+thrive v
+tide n
+tighten v
+loosen v
+timber n
+timely adj
+tolerance n
+tolerate v1
+tolerate v2
+toll v/n 1
+toll v/n 2
+top v
+toss v
+total v
+trace n
+trail v/n
+transmission n
+transparent adj
+treaty n
+tremendous adj1
+tremendous adj2
+tribal adj
+tribute n
+troubled adj1
+troubled adj2
+trustee n
+tuition n
+turnout n1
+turnout n2
+turnover n
+twist v/n
+undergraduate n
+underlie v
+underlying adj1
+underlying adj2
+undermine v
+undoubtedly adv
+unify v1
+unify v2
+unprecedented adj
+unveil v
+upcoming adj
+uphold v
+utterly adv
+vaguely adv
+vague adj
+validity n
+vanish v
+varied adj
+vein n
+venture v/n
+verify v
+verse n
+vessel n1
+vessel n2
+viable adj
+vibrant adj1
+vibrant adj2
+vibrant adj3
+vice n1
+vice n2
+vicious adj
+violate v
+violation n
+virtue n1
+virtue n2
+vow v/n
+vulnerability n
+vulnerable adj
+ward n1
+ward n2
+warehouse v/n
+warfare n
+warrant v/n 2
+warrant v/n 1
+weaken v
+weave v1
+weave v2
+weed n
+well-being n2
+well-being n1
+whatsoever adv
+whereby adv
+whip v/n
+wholly adv
+widen v
+willingness n
+wipe v/n 1
+wipe /out v/n 2
+wit / wits n
+worship v/n
+worthwhile adj
+worthy adj1
+worthy adj2
+yell v/n
+yield v/n 1
+yield v/n 2
+youngster n
+
+AL C2
+solemn adj
+wicked adj
+brink n
+verge n
+extinction n 
+extinct adj 1
+extinct adj 2
+extinct adj 3
+extinguish v
+broth n
+dubious adj1
+dubious adj2
+throat n
+vicinity n
+noodle n1
+dope v/n 1
+dope /dopehead n 2
+limp v/n
+treason n
+treachery n
+betrayal n
+construe v
+misconstrue v
+trench v/n
+janitor n
+intestine n
+colon n1
+colon n2
+strum v
+contraction n
+stag n
+irresistible adj
+debauch v/n
+debauched adj
+bout n1
+bout n2
+subversive adj
+subvert v
+haggle v/n 1
+haggle v2
+deprave v
+depraved adj
+sulk /s v/n
+sulky adj
+morose adj
+gloomy adj1
+gloomy adj2
+gloom v/n 1
+gloom v/n 2
+hug v/n 1
+whoop v/n 1
+whoop /up v/n 2
+naw, naw phr
+wink v/n
+ragged adj
+rag /rags n
+jut v/n
+filly n
+foal n
+grim adj
+twirl v/n
+vest v/n 1
+vest /in, with v2
+jag v/n 1
+jag v/n 2
+spree n1
+spree n2
+overdue adj
+tardy adj
+hustle v/n
+fondle v/n
+coated adj
+belly /up phr
+belly /potbelly v/n 1
+belly v2
+belly up to phr
+swell v/n
+humming adj
+hum v/n 1
+hum v/n 2
+jangle v/n
+bugger v/n
+jade v/n 1
+jade v/n 2
+jaded adj1
+jaded adj2
+fatigue v/n 1
+fatigue v/n 2
+fatigued adj
+saleable adj
+grit n1
+grit v2
+grit n3
+clench v/n 1
+heinous adj
+whisk v/n 1
+whisk /away/off v/n 2
+whisk /away/off v/n 3
+fearful adj
+exasperating adj
+exasperate v
+luminous adj
+swamped adj
+serene adj
+stingy adj
+spotless adj
+freezing adj
+cutthroat n1
+cutthroat adj 2
+adore adj
+adorable adj
+revere v 1
+revere v 2
+reverence n
+perplexed adj 1
+perplexed adj 2
+perplexed adj 3
+entangled adj
+entangle v1
+entangle v2
+disentangle v
+bustling adj
+bustle v/n
+perilous adj
+peril n
+cherished adj
+despondent adj
+despond v
+despondency n
+slough v/n 1
+slough v/n 2
+exuviate v
+moult /molt v/n
+slough of despond phr
+dejected adj
+deject v
+dejection n
+meticulous adj
+disparate adj
+disparity n
+parity n
+arduous adj
+filthy adj
+arid adj 1
+arid adj 2
+tedious adj
+effortless adj
+desolate v/adj 1
+desolate v/adj 2
+consolation n
+console v
+inconsolable adj
+disconsolate adj
+exhilarating adj
+exhilarate v
+lavish adj
+bestow v
+stow v
+amiable adj
+amicable adj
+alarmed adj
+terrifying adj
+overjoyed adj
+ecstatic adj
+leaden adj 1
+leaden adj 2
+soaring adj
+sweltering adj
+swelter v/n
+sultry adj1
+sultry adj2
+colossal adj
+starving adj
+batter v
+battered adj
+bruise v/n
+captivating adj
+captivate v
+captive n/adj
+indolent adj1
+indolent adj2
+sloth n1
+sloth n2
+enduring adj
+durable adj1
+durable adj2
+slack v/n/adj 1
+slack v/n/adj 2
+negligent adj
+slovenly adj
+sloven n/adj
+essential n/adj
+apprehensive adj
+apprehension n
+apprehend v1
+apprehend v2
+apprehend v3
+misapprehend v
+deafening adj
+archaic adj
+excruciating adj
+excruciate v
+ashen adj
+pallid adj1
+pallid adj2
+flawless adj
+destitute adj
+hushed adj
+hush v/n
+pouring adj
+sorrowful adj
+petrified adj1
+petrified adj2
+chilling adj
+gleaming adj
+gleam v/n
+timid adj
+skeletal adj
+petite adj
+pungent adj1
+pungent adj2
+savoury adj
+savour v/n 1
+savour v/n 2
+sleek adj1
+sleek adj2
+downy adj
+fluffy adj
+fluff v/n
+apologetic adj
+forceful adj1
+forceful adj2
+idiotic adj
+gifted adj
+towering adj
+parched adj
+parch v
+constricting /ed adj
+constrict v1
+constrict v2
+encircle v
+minuscule /miniscule adj
+hideous adj
+distraught adj
+frail adj
+soaked adj
+expansive adj1
+expansive adj2
+blustery /blusterous adj
+gusty adj
+gust v/n
+gusto n
+zest n1
+zest n2
+zest n3
+sage n/adj
+distressed adj
+humid adj
+stuffy adj1
+stuffy adj2
+stuffy adj3
+wig n
+audacity n1
+audacity n2
+impudence n
+impudent adj
+pudency n
+despicable adj
+arrogance n
+arrogant adj
+contemptible adj
+admirable adj
+yank v/n
+bark v/n 1
+bark v/n 2
+yap v/n
+buttocks n
+lard v/n 1
+lard /with v2
+insipid adj1
+insipid adj2
+churn v/n
+churn out phr
+churn up phr
+shtick /schtick /shtik n
+attire /in v/n
+incontinence n
+incontinent adj
+continent adj2
+promiscuity n
+promiscuous adj
+sluggard n
+sluggish adj
+inflatable adj
+inflate v1
+inflate v2
+inflate v3
+prance v/n 1
+prance /about v2
+whine v/n
+vigil n
+vigilance n
+vigilant adj
+vigilante n
+abduct v
+plausible adj
+implausible adj
+blatant adj
+snatch v/n
+oaf n
+spry adj
+yammer v/n
+perch v/n
+goon n
+scuffle v/n
+dole /out v/n
+scanty adj
+vigor / vigour n
+vigorous adj
+perpetrate v
+redemption n
+prod v/n
+be torn phr
+famine n
+famish v
+hop v/n
+flare v/n
+quench v1
+quench v2
+quench v3
+distaste n
+aversion n
+averse adj
+versatile adj
+versed adj
+liken v
+immedicable adj
+medicable adj
+medicate v
+obscene adj
+proxy n
+hoarder n
+hoard /up v
+compulsive adj
+packrat n
+miser n
+idyllic adj
+collusion n
+collude v
+steerage n1
+steerage n2
+live up to phr
+fluster v/n
+perturb v
+altitude n
+incline v/n 1
+incline v/n 2
+predispose v
+contestant n
+comprehension n1
+comprehension n2
+comprehend v1
+comprehend v2
+outskirts n
+kink v/n 1
+kink v/n 2
+quirk n
+idiosyncrasy n
+peculiarity n
+vagary n
+vagarious adj
+caprice n
+mogul n
+utter adj1
+utter v2
+otter n
+flatter v
+flattery n
+gibberish n
+gibber v
+chatter v/n
+pageant n
+pageantry n
+bribe v/n
+usher v/n
+lilt v/n
+lilt out phr
+afterthought n
+nerve-rattling adj
+nerve-racking adj
+rattle v/n
+wart n1
+wart n2
+swill /down v/n 1
+swill /down v/n 2
+swig v/n
+draught n1
+draught n2
+gulp v/n
+julep n
+easel n
+swerve v/n
+bristly / bristling adj
+bristle v/n 1
+bristle /at v/n 2
+maverick n
+diligent adj
+painstaking n/adj
+gentry n
+gentrify v
+renovate v
+belle n
+dingbat n
+strut v/n 1
+strut v/n 2
+gait n
+hunker v
+tote n1
+tote v/n 2
+ponder v
+muse v/n
+amuse v
+hunch n1
+hunch v/n 2
+thin out phr
+rifling v/n
+hoot v/n 2
+hoot v/n 1
+stagger v/n
+totter v
+faint v/n/adj
+swoon v/n 1
+swoon v/n 2
+copulate v
+trample v/n
+guzzle v
+vomit v/n 1
+vomit v/n 2
+spew v/n
+puke v/n
+ignorant adj
+thoroughbred n/adj
+numb v/adj
+foul v/n 1
+perverse adj
+pervert v/n
+shin n
+splint v/n
+moan v/n
+groan v/n
+coherent adj
+incoherent adj
+scramble v/n
+clamber v/n
+mangle v/n 1
+mangle /up v/n 2
+shrivel v
+stain v/n
+stained adj
+stainless adj
+tulip n
+clump n1
+clump n2
+fern n
+haul v/n
+teem v1
+teem v2
+teeming adj
+paddock n
+shove v/n
+paddle v/n
+sag v/g
+snarl v/n 1
+snarl v/n 2
+snarl v/n 3
+unsnarl v
+knot v/n
+yarn n1
+yarn v/n 2
+varnish v/n
+hiss v/n 1
+rustle v/n
+slick adj
+chortle v/n
+chuckle v/n
+giggle v/n
+snort v/n
+cul-de-sac n
+lunatic n/adj
+gag v/n
+hack v/n 1
+cough v
+humiliate v
+bum n
+vagrant n/adj
+chirr v/n
+stammer v/n
+stutter v/n
+sputter v/n
+hose v/n
+dumpling n
+flunk v/n
+jingle v/n
+induction n1
+induction n2
+induct v1
+induct v2
+inhale v/n
+exhale v1
+exhale v2
+evaporate v
+vapor /vapour n1
+vapor /vapour v2
+bayonet v/n
+insulate v
+insulated adj
+drip v/n
+backchat /backtalk n
+lining n
+senile adj
+goof /on v/n 1
+goof v/n 3
+goof /up v/n 2
+weep v1
+weep v2
+faeces |feces n
+congest v
+congested adj
+congestion n
+skirmish v/n 1
+skirmish v/n 2
+unleash v
+leash v/n
+swipe v2
+subset n
+intricate adj
+extricate v
+dwell v
+dweller n
+up-and-coming adj
+lousy adj
+louse v/n
+sidekick n
+caper v/n
+scoop v/n 1
+scoop v/n 2
+henchman n
+fable v/n
+deform v
+dismember v
+bleak adj
+cherish v1
+cherish v2
+condone v
+saucy adj
+lisp v/n
+emasculate v
+riddle v/n
+midget n/adj
+mudslide n
+blackmail v/n
+nettle v/n
+foil v/n 1
+foil v/n 2
+ferret v/n
+felony n
+nemesis n
+refrain n1
+refrain v2
+abstain v
+ominous adj
+pertinent adj
+impertinent adj1
+impertinent adj2
+pertain /to v
+maven /mavin n
+scooch v
+crouch v/n
+splice v/n
+grappler n
+grapple v/n
+guttersnipe n
+gutter n
+retract v
+amity n
+rube n
+bumpkin n
+crumble v
+crumb v/n
+endanger v
+fisticuffs n
+cuff v/n
+handcuff v/n
+shackle v/n
+fetter v/n
+animosity n
+suspense n
+swag n1
+swag n2
+evict v
+expel v
+lease v/n
+sombre /somber adj
+livid adj1
+livid adj2
+unbecoming adj
+flashy adj
+vibes n
+fudge v/n/excl 1
+fudge v 2
+valedictory n/adj
+vale n/excl
+furnace n
+utmost /uttermost n/adj
+repress v
+subdue v
+thwart v
+lug v/n
+rant v/n
+ranting n
+stray v/n/adj 1
+stray /from v/n/adj 2
+awe v/n
+blare v/n
+thrust v/n
+inept adj1
+inept adj2
+slander v/n
+defame v
+defamation n
+chum v/n 1
+chum /up v/n 2
+decoy v/n
+darn v/n 1
+darn v/n 2
+pry v/n
+prise /prize/pry v/n 1
+prise /prize/pry v/n 2
+kin n
+brood n
+exclaim v
+shank n
+recon v/n
+sassy adj
+duct v/n
+rap v/n 1
+praxis n
+crunch v/n
+gnaw v
+gnawing adj 
+gnawer n
+rodent n
+groove v/n 1
+groove v/n 2
+vault n1
+vault /over v/n 2
+pucker v/n
+dice n1
+dice /with v2
+dice v/n 3
+scourge v/n
+terse adj
+barb n1
+barb n2
+conspirator n
+conspire v
+accomplice n
+complicity n
+cunning n/adj
+abscond v
+snooty adj
+snoot n
+standout n/adj
+rebuff v/n
+mingle v1
+mingle v2
+abomination n
+abominate v
+detest v
+loathe v
+loath adj
+loathing n
+heed v/n
+heedful adj
+heedless adj
+stomp v
+elicit v
+licit adj
+illicit adj
+pave v
+garish adj1
+garish adj2
+showy adj 1
+gall n
+blubber v/n
+blush v/n
+boisterous adj
+arson n
+saddle v/n
+knucklehead n
+knuckle v/n
+rehearse v
+hearse n
+drivel v/n
+straw n/adj
+bolt v/n 2
+moola(h) n
+crisp v/adj
+turf n1
+turf /the n2
+turf n3
+poacher n
+rapport n
+laughingstock n
+deadbeat adj1
+exhausted adj1
+exhausted adj2
+exhaustion n
+exhaust v1
+exhaust v2
+babble v/n
+schmuck n
+clog v/n 1
+clog v/n 2
+cloggy adj
+felicity n
+scold v
+scolding n
+growl v/n 1
+growl v/n 2
+procure v
+slay v
+prude n
+prudery n
+prudent adj
+prudence n
+dire adj
+strait /s n1
+strait /s n2
+clunky adj
+clunk v/n
+soggy adj
+sure-fire adj
+sure-footed adj
+kite v/n 1
+kite v/n 2
+reek v/n
+reek v/n 2
+maliciously adv
+malicious adj
+malice n
+fave n/adj
+garment /s n
+pawn n1
+pawn v/n 2
+bash v/n 1
+bash v 2
+yelp v/n
+prop v/n
+inward /s adj/adv
+shudder v/n
+shiver v/n 1
+shiver v/n 2
+splinter v/n
+stifle v1
+stifle v2
+stifling adj
+suffocate v
+apropos adv
+chisel v/n
+twiddle v
+bla(h) n/adj 1
+bla(h) n/adj 2
+cork v/n
+maze n
+reductive adj
+amenity /s
+feasible adj
+ointment n
+martyr v/n
+satyr n
+eradicate v
+nuts adj
+vine n
+101 n/adj
+bask /in v
+revel /in v/n
+swarm v/n
+slant v/n 1
+slant v/n 2
+binge v/n
+crook n1
+crook n2
+crooked adj
+mutter v/n
+frantically adv
+frantic adj
+screech v/n
+hurl v1
+hurl v2
+dissolution n
+dapper adj
+murmur v/n
+lunge v/n
+swollen adj
+mumble v/n
+mumbling n
+grumble v/n
+rumble v/n
+tremble v/n
+trembling n
+grease v/n
+venerable adj
+venerate v
+duress n
+rapturous adj
+rapture n
+loony n/adj
+burgher n
+veracity n
+shaft n1
+shaft n2
+nitty-gritty n
+charge /in phr
+solitary n/adj
+solitude n
+hermit n
+surmount v
+surmountable adj
+insurmountable adj
+transient adj
+apex n
+repent v
+repent yourself phr
+perish v
+sprain v/n
+wrench v/n
+wag v/n 1
+wag v/n 2
+truant n/adj
+jealous adv1
+jealous adv2
+cuddle v/n
+snog v/n
+wholesome adj
+underestimate v/n
+clap v/n
+severally adv
+fertilize v1
+fertilize v2
+fertilize v3
+mischief n 1
+mischief n 2
+irreproachable adj
+reproach v/n
+crutch n
+mantle v/n
+dismantle v
+majestic adj
+conduce v
+savvy v/n/adj
+assuredly adv
+topnotch adj
+tantrum n
+kudos n
+fragrance n
+upright adj/adv
+soothe v
+soothing adj
+wrinkle v/n
+rinse /out v/n
+glow v/n
+sore n/adj
+irritation n
+glitter v/n
+dew v/n
+veil v/n
+grating n/adj 1
+grate v/n 1
+grate v/n 2
+illustrious adj
+impenetrable adj1
+impenetrable adj2
+impenetrable adj3
+penetrate v
+scrub v/n 1
+scrub n2
+tone down phr
+subpar adj
+honk v/n
+mock v/n/adj 1
+mock v/n/adj 2
+taunt v/n
+villain |supervillain n
+treacherous adj1
+treacherous adj2
+vaunt v/n
+efficacy n
+obligatory adj
+cringe v/n
+cower v
+perpetual adj
+fetch v/n
+nap v/n
+amber n/adj
+wank v/n
+clink v/n
+chink v/n 1
+chink v/n 2
+tinkle v/n 1
+tinkle v/n 2
+muffle v/n
+muffled adj
+muffle up phr
+choke v/n
+choking n/adj
+strangle v1
+strangle v2
+wail v/n
+wailing n
+fugitive n/adj 1
+fugitive n/adj 2
+muddle v/n 1
+muddle v/n 2
+deceased n/adj
+decease n
+deduct v
+deduction n1
+deduction n2
+pew n
+lodge v/n
+renal adj
+maroon v/n 1
+assimilate v1
+assimilate v2
+peacock v/n
+cripple v/n
+hobble v/n
+sleeve n
+lookout n
+dab v/n 1
+dab n 2
+chant v/n
+dreadful adj
+alienate v
+whimper v/n
+whimpering n
+snivel v/n
+pickle v/n 1
+pickle v/n 2
+plight n
+brine v/n
+concise adj
+impediment n
+impede v
+impedance n
+ambiguous adj
+ambiguity n
+equivocal adj
+obsolete adj
+agile adj
+nimble adj1
+nimble adj2
+denote v
+instantaneous adj
+retort v/n
+plethora n
+tooling n
+contingency n
+credentials n
+lurk v
+dizzy v/adj
+dizziness n
+ditch v/n
+residual n/adj
+tier n
+seizure n2
+seizure n1
+peel v/n
+prune v/n
+topple v
+delusion n
+delusional adj
+delude v
+delusive adj
+illiterate adj
+illiteracy n
+rookie n
+ploy n
+wreck v/n
+spade n1
+spade /s n2
+implicit adj
+creed /credo n
+gross adj1
+gross adj2
+gross n/adj 3
+abrupt adj1
+abrupt adj2
+brusque adj
+wield v1
+wield v2
+sward v/n
+facet v/n
+impostor /imposter n
+acquaint v
+bland adj1
+elongated adj
+oblong adj
+elongate v1
+lengthen v
+ripe adj1
+ripe adj2
+ripen v
+mellow v/adj1
+mellow adj2
+toddle v/n
+toddler n
+savage v/n/adj
+devour v
+devouringly adv
+avid adj
+avidly adv
+circa prep
+forfeit v/n/adj
+spike v/n
+snare v/n
+redeem v1
+redeem v2
+redeem v3
+valour |valor n
+valorous adj
+discontent v/n/adj
+tease v/n
+harrow v/n
+scrape v/n 1
+scrape /up v 2
+maneuver |manoeuvre v/n
+clamp v/n 1
+clamp v/n 2
+avert v2
+avert v1
+horrendous adj
+hillbilly n
+molest v
+repel v2
+repel v1
+collide v
+stupendous adj
+stupefy v
+benumb v
+deaden v
+blunt v/adj
+blunt n2
+slow-witted adj
+surmise v/n
+eminent adj
+eminently adv
+eminence n
+mutiny v/n
+flop v/n 1
+flop v/n 2
+loquacious adj
+eloquent adj
+garrulous adj
+evade v
+evade v2
+evasive adj
+dodge v/n
+elude v
+shun v
+stroll v/n
+chore /s n
+toil v/n 1
+toil v2
+rampant adj1
+rampant adj2
+rampage v/n
+rampageous adj
+unchecked adj
+luxuriant adj
+luxuriance n
+luxurious adj
+lush adj
+greenery n
+vegetation n
+foliage n
+retaliate v
+rack v/n 1
+rack v/n 2
+abut v
+adjoin v
+scarce adj1
+scarce adj2
+fuss v/n
+flutter v/n 1
+agitation n
+agitated adj
+agitate v1
+agitate v2
+brisk adj
+crass adj
+slake v
+marsh n
+morass n
+conjunction /in ... with phr
+unfounded adj
+ungrounded adj
+groundless adj
+scum v/n 1
+scum n2
+scumbag n
+rascal n
+algae /alga n
+resilient adj1
+resilient adj2
+resilience n1
+resilience n2
+elasticity n
+buoyant adj1
+buoyant adj2
+yawn v/n
+curb v/n
+reap v
+scar v/n
+telly n
+pant v/n
+protract v
+prolong v
+chuck v/n 1
+chuck v/n 2
+mind v2
+gasp v/n
+blaze v/n 1
+blaze v/n 2
+attic n
+sob v/n
+goner n
+slag n1
+slag off phr
+parochial adj1
+parochial adj2
+impair v
+impaired adj1
+impaired adj2
+cabbage n
+irreparable adj
+reparable adj
+blasphemous adj
+profane adj 1
+profane v/adj 2
+racket n1
+racket n2
+racket v/n3
+gobshite n
+carnivorous adj
+prick v/n 1
+prick n 2
+habitual adj1
+habitual adj2
+cheerio excl
+dignify v
+chubby adj
+plump adj
+stitch v/n 1
+stitch n2
+stitches /to be in … phr
+jollier n
+joker n
+jester n
+crag n
+craggy adj1
+craggy adj2
+leper adj
+leprosy n
+rug n
+rugged adj1
+rugged adj2
+teeny n/adj
+wagon n1
+wagon /on/off the.. phr
+scrap v/n 1
+scrap v/n 2
+sanctimonious adj
+sanctify v
+sip v/n 1
+sip /of v/n 2
+sup v/n
+relapse v/n
+bang v/n 1
+thump v/n
+discordant adj1
+discordant adj2
+discordant adj3
+whistle v/n
+serenity n
+gritty adj1
+gritty adj2
+gritty adj3
+effing adj
+effigy n
+pitchfork n
+bollocks n
+wane v/n
+sermon n
+sermonize v
+pea n
+pod n
+congregate v
+parcel v/n
+jolly n/adj
+jollification n
+swot v/n
+fulfilment n1
+fulfilment n2
+marvellous adj
+marvel v/n
+comb v/n 1
+comb v/n 2
+rouse v1
+rouse v2
+rite n
+ritual n/adj
+anoint v
+stipulate v
+banger n
+snicker v/n
+thicko n
+thickhead n
+astute adj
+bob n1
+bob v/n 2
+twilight n/adj
+morbid adj
+flake v/n
+snore v/n
+rigour n
+rigor mortis phr
+decomposition n
+pretext n
+barrage v/n 1
+barrage v/n 2
+orchard n
+boneyard n
+squeak v/n
+rust v/n
+clutch v/n 1
+clutch v/n 2
+leverage n
+lever v/n
+falsify v
+accrue v
+accrued adj
+wrap up phr
+omit v
+inferior n/adj 1
+inferior n/adj 2
+mediocre adj
+diaphanous adj
+translucent adj
+depravity n
+plumb v/n/adj/adv 1
+plumb v 2
+exempt v/n/adj
+reprimand v/n
+rebuke v/n
+creak v/n
+creaky adj
+puff v/n 1
+puff v/n 2
+chimney n
+puffy adj
+stump v/n
+thud v/n
+clomp v/n
+bladder n
+cramp v/n 1
+cramp v 2
+puncture v/n
+whoosh v/n/excl
+raffle v/n
+mug n1
+mug v2
+dent v/n 1
+dent v/n 2
+straighten v
+squawk v/n 1
+squawk v/n 2
+salvation n
+salvage v/n
+rig v2
+lag v/n
+flush v/n/adj 1
+flush v/n/adj 2
+stash v/n
+lure v/n
+fumigate v
+ecumenical adj
+elocution n
+vat n
+shred v/n
+maim v
+poker n
+cleave v1
+cleave v2
+opaque adj
+revamp v/n
+vamp v
+dim v/n/adj
+certify v
+dabster /dab hand n
+pariah n
+outcast n/adj
+triage v/n
+dismay v/n
+deterrent n/adj
+deter v
+fizzy adj
+fizz v/n
+sizzle v/n
+howl v/n
+mooch v/n
+loiter v
+cock v/n
+ware /s n
+shear v/n
+sacrosanct adj
+lump v/n
+commemorate v
+incidentally adv
+coincidentally adv
+accidentally adv
+unintentionally adv
+occidentally adv
+giddy adj
+tumble v/n
+infallibility n
+infallible adj
+defeatist n/adj
+hoof v/n
+sour v/n
+hatch v/n 1
+hatch n 2
+sneak v
+twig n
+floppy adj
+vocation n
+nibble v/n
+furry adj
+greyhound n
+hound v/n
+buzzer n
+buzz v/n
+clatter v/n
+roar v/n
+burrow v/n
+spit v/n 1
+spit n 2
+sinister adj
+frock n
+indecipherable adj
+decipherable adj
+illegible adj
+legible adj
+clank v/n
+cowboy n2
+hypocrisy n
+hypocritical adj
+bump v/n
+hoover v
+impersonate v
+shoddy n/adj
+feigned adj
+feign v
+counterfeit v/n/adj
+fend /off v
+flick v/n
+lace v/n
+strap v/n
+aisle n
+chirp v/n
+dreary adj
+vivacious adj
+impetuous adj
+impetus n
+dodgy adj
+burglar n
+runner-up n
+unconvincing adj
+garbled adj
+garble v
+grunt v/n
+graft v/n 1
+graft v/n 2
+graft v/n 3
+peg v/n
+peg n2
+twat n
+sever v1
+sever v2
+whirr /whir v
+incantation n
+befriend v
+tramp v/n
+crescent n/adj
+indentation n
+indent v/n
+thigh n
+groin n
+jeopardy n
+jeopardize v
+scuff v/n
+winch v/n
+hoist v/n
+cagey adj
+reminisce v
+mane n
+run-of-the-mill adj
+bog-standard adj
+backhander n
+crank v/n
+splash v/n
+saucer n
+uplifting adj
+uplift v/n
+remembrance n
+silliness n
+hoax v/n
+tangle v/n
+unravel v
+vex v
+vexed adj
+populous adj
+hind adj
+superfluous adj
+rule of thumb phr
+curfew n
+herd v/n
+dollop v/n
+debunk v
+bunkum /bunk n
+hemisphere n
+toggle v/n
+innate adj
+nag v/n
+nagging n/adj
+requisite n/adj
+prerequisite n/adj
+etch v/n
+engrave v
+Lent n
+shriek v/n
+vile adj
+slop v/n
+sniff v/n
+sniffle v/n
+crust v/n
+fracture v/n
+rambling adj
+stockpile v/n
+flip v/n
+flipper n
+smear v/n
+slur v/n 1
+slur v/n 2
+squeal v/n
+spurt v/n
+squirt v/n
+state-of-the-art adj
+manhole n
+whinny v/n
+neigh v/n
+scoot v
+diaper v/n
+sparkle v/n
+splutter v/n 1
+splutter v/n 2
+scoff v/n 1
+scoff v/n 2
+mockery n
+smother v/n
+nocturnal adj
+obscure v/adj
+misapprehension n
+gist /the n
+minutiae n
+exemplify v
+batch v/n
+flock v/n
+subside v
+juke v
+eerie /eery adj
+hassle v/n
+humongous /humungous adj
+wiener /weenie, wienie n
+defuse v
+measly adj
+goo n
+deplete v
+scrotum n
+repulse v
+repulsive adj
+deceive v1
+deceive v2
+deceit n
+harness v/n 1
+harness v/n 2
+affluent adj
+omnipresent adj
+sweat v/n
+cackle v/n
+plop v/n
+rusty adj
+mower n
+mow v
+slobber v/n
+slobbery adj
+phoney n/adj
+armpit n
+righteous adj
+bitch v/n
+bitching adj/adv
+apt adj
+beforehand adj/adv
+mop v/n 1
+mop n2
+swab v/n 1
+swab /down v/n 2
+rigid adj
+pivot v/n
+crease v/n
+arouse v
+dime n
+stonewall v
+truce n
+armistice n
+sturdy adj
+pulverize v
+bear in mind phr
+stipulation n
+kernel n
+crux n
+spatter v/n
+sprinkle v/n
+slosh v
+vouch v
+relent v
+relentless adj1
+relentless adj2
+ruthless adj
+reimburse v
+chiefly adv
+slurp v/n
+champ v/n
+chomp v
+bling (-bling) n/adj
+swish v/n
+rib n
+sting v/n 1
+sting n2
+deception n
+smuggle v
+overhead adj/adv
+cahoot /in n
+scuttle v/n
+corroborate v
+meddle v
+meddling n
+floozy /floozie, floosie n
+potty n
+lax adj
+umpteenth adj
+zillion / gazillion n
+welt v/n
+weal v/n
+foreman n
+sway v/n 1
+sway v/n 2
+emphatic adj
+forthright adj/adv
+ostracize v
+don v
+doff v
+oink v/n
+vivid adj
+hackneyed adj
+trite adj
+unaccounted-for adj
+crustacean n/adj
+chow v/n
+shack v/n
+wallop v/n
+clang v/n
+bona fide phr
+sterling adj2
+barring prep
+cutlery n
+stumpy adj
+jaunty adj
+afoot adj/adv 1
+afoot adj/adv 2
+lark /skylark n1
+lark v/n 2
+nightingale n
+warble v/n
+hammered adj
+skid v/n
+skid row phr
+tainted adj
+figment n
+figment of the imagination phr
+juncture n1
+juncture n2
+repugnant adj
+gore v/n
+shag v/n 2
+shrill v/n/adj
+resentment n
+resent v
+grievance n
+disciple n
+esteemed adj
+consign /to v
+swine n
+arrangement n
+affliction n
+afflict v
+mould /mold v/n 1
+mould /mold v/n 2
+rotter n
+calamity n
+cadaver n
+commend v
+posture v/n 1
+posture v/n 2
+hallowed adj
+consecrated adj
+inconceivable adj
+discerning n/adj
+discern v
+bait v/n
+outrun v
+proverbial adj
+appalling adj
+handsome adj2
+balmy adj2
+balm n
+rye n
+gluttony n
+nuptial /s n/adj
+regular n2
+travesty v/n
+inebriated adj
+inebriate v/n/adj
+laurel v/n
+lucrative adj
+multitudinous adj
+incarnadine v/adj
+carnation n/adj
+crimson v/n/adj
+lance v/n
+unhand v
+enlighten v
+vanguard n
+parlour n
+preposterous adj
+demise v/n
+vain adj1
+vain adj2
+heathen n/adj
+persecute v
+noose v/n
+sully v
+weather v2
+racy adj
+nauseous adj
+nausea n
+drool v/n
+spittle n
+slump v/n
+nerve n2
+intimidate v
+daunt v
+dauntless adj
+secure adj2
+dabble v1
+dabble v2
+detach v1
+ordeal n
+tingle v/n
+wrangle v/n
+sliver v/n
+onward /s adj/adv
+whale n
+vanquish v
+inhospitable adj
+resounding adj
+gauche adj
+dibs /on /bags I... n
+bleh excl
+belch v/n
+cordially adv
+litigious adj
+litigation n
+litigate v
+swivel v/n
+segue v/n
+feast v/n
+jest v/n
+disingenuous adj
+ingenuous adj
+yikes excl
+setback n1
+setback n2
+scuba n
+rousing adj
+scull v/n
+long-winded adj
+nitpick v
+nit n
+pate n
+noddle n
+wither v
+withered adj
+clime n
+accustom v
+accustomed adj
+brow n
+cliché n
+carton v/n
+cardboard n/adj
+burgle v
+plaster v/n
+fumes n
+snip v/n
+burble v/n
+per capita phr
+acclaim v/n
+condense v
+velocity n
+concur v
+merriment n
+razor v/n
+shave v/n
+idle v/adj1
+idle v/adj2
+axis n
+vortex n
+revolt v/n
+banter v/n
+next of kin phr
+lucid adj
+obliterate v
+fathom v/n
+fathomless adj
+cop out phr
+instigate v
+yuck /yuk excl
+herring n
+overhaul v/n
+hemp n
+said adj
+purportedly adv
+foremost adj/adv
+slippery slope phr
+fallacy n
+call for phr
+abhor v
+whim n
+whimsy n
+whimsical adj
+eccentric n/adj
+misdemeanour n
+demeanour n
+hotbed n
+spin a coin phr
+sail v/n
+slingshot n
+sling v/n
+tranquillity /tranquility n
+envision v
+behemoth n
+plummet v/n
+cleft n/adj
+in a cleft stick phr
+spearhead v/n
+spearheaded adj
+feud v/n
+streamlined /streamline adj
+streamline v/n 1
+streamline v 2
+reinvigorate v
+invigorate v
+hectic n/adj
+consumptive adj
+hold sway phr
+proliferation n
+proliferate v
+writ double phr
+shrouded adj
+shroud v/n
+listless adj
+apathetic adj
+shelf life phr
+melange n
+incite v
+incitement n
+undaunted adj
+controvert v
+so as to phr
+so as not to phr
+feel like phr
+arbitrary adj2
+futile adj
+faux adj
+porch n
+sparrow n
+hare v/n
+first catch your hare, then cook it phr
+(as) mad as a hatter/a March hare phr
+hen n
+fowl n
+cuisine n
+detour v/n
+at least phr
+at the latest phr
+midwife v/n
+swaddle v
+pacifier n
+at all phr
+last night phr
+by nature phr
+tortoise n
+long live phr
+turtle n
+labour |labor n2
+mesmerize /mesmerise v
+film v/n2
+conman n
+at large phr 1
+at large phr 2
+as is /as it is phr
+splurge v/n
+rash n1
+rash adj2
+hear out phr
+hog v/n 1
+hog v2
+thrill v/n
+crotch n
+drop by phr
+all the same phr
+after all phr
+ultimately adv
+stick to phr
+wager v/n
+felon n
+affair n2
+amour n
+mashed potatoes phr
+mash v/n
+purée v/n
+borscht /borsht, borsch n
+beetroot n
+haunch n
+venison n
+smoked adj
+flank v/n/adj
+droplet n
+earthling n
+unfathomable adj
+endear v
+stampede v/n
+bitterness n
+indignation n
+murky adj
+murk n
+tad n/adv
+stale adj
+stalemate v/n
+circumcise v
+no time like the present phr
+clutter v/n
+cluttered adj
+uncluttered adj
+declutter v
+undue adj
+undulate v
+thrice adv
+a long way from phr
+take a rest phr
+more or less phr
+bigwig n
+elegy n
+tout v
+halcyon days phr
+halcyon adj
+halcyon n2
+placid adj
+egalitarian n/adj
+alleged adj
+tedium n
+ennui n
+tacky adj
+destine v
+destined adj
+scruff n
+flea v/n
+stoner n
+as far as one can tell phr
+judging by phr
+throughout adv/prep
+laceration n
+lacerated adj
+lacerate v
+rend v
+rend the air phr
+pop out phr
+faint-hearted adj
+guinea pig phr
+nicker v/n
+muck v/n
+manure v/n
+pristine adj
+exposed adj
+windward n/adj/adv
+resolution n
+resolutely adv
+resolute adj
+slink v
+slinky adj1
+slinky adj2
+handheld adj
+visualize v
+envisage v
+incessant adj
+cessation n
+incessantly adv
+grassland n
+woodland n
+scenery n
+environs n
+environ v
+unceasing adj
+smock-frock n
+smock n
+piercingly adv
+shrilly adj/adv
+enmity n
+propelled adj
+propel v
+annoyance n
+distend v
+pulpy adj
+pulp v/n 1
+pulp adj2
+unspoiled /unspoilt adj
+defile v1
+defile v/n 2
+desecrate v
+unwavering adj
+plumage n
+juvenile n/adj
+deadlock v/n
+helix n
+imperil v
+pacify v
+dissension n
+dissent v/n
+arbitrarily adv
+pointless adj
+unavailing adj
+veranda /h n
+It recks phr
+rashness n
+rashly adv
+freckle n
+mole n1
+mole n2
+enigmatic adj
+unaccountable adj
+undue risk phr
+placidity n
+erratic adj
+twine v/n
+as such phr
+listlessness n
+simpleton n
+gullible adj
+naive adj
+ardent adj
+drastically adv
+drastic adj
+ailing adj
+ailment n
+repercussion n
+percussion n
+sweeten v
+wasteful adj
+derogatory /derogative adj
+derogate v
+disparage v
+vilify v
+minuteness n
+minutes n
+scurf n
+dandruff n
+astounding adj
+startling adj
+staggering adj
+quarrel v/n
+commotion n
+bearing n/adj
+bewildering adj
+insufferable adj
+craving n
+buckle v/n 1
+buckle v 2
+bane n
+pusillanimity n
+pusillanimous adj
+ether /aether n
+dislocate v
+revenant n
+ascribe v
+prone adj
+proneness n
+precarious adj
+staple v/n 1
+staple n/adj 2
+burnout n
+land v2
+indignant adj
+indignity n
+casing n
+immaculate adj
+throw a party phr
+throw open phr
+hardship n
+gnash v
+veiled adj
+sneaking adj
+sneaky adj
+crafty adj
+rash decision phr
+nuisance n
+immeasurable adj
+immeasurably adv
+fervent adj
+vexation n
+gorge n
+disparaging adj
+humiliating adj
+bewilderingly adv
+extraneous adj
+succulent adj
+fleshy adj
+dissipation n
+dissipate v1
+dissipate v2
+deviate v
+detract v
+trustful adj
+cowardly adj/adv
+cowardice n
+apprehensively adv
+catwalk n
+sashay v
+credulous adj
+insignificance n
+infirm adj
+irresolute adj
+sinuous adj
+meltdown n
+deplorable adj
+deplore v
+abusively adv
+abusive adj
+circumscribe v
+fluctuate v
+axe v/n 1
+axe v/n 2
+mar v
+discredit v/n
+quell v
+ordain v
+unwarranted adj
+slyboots n
+slyly adv
+runt n
+hoarse adj
+receding adj
+recede v
+rankle v
+rankle in the mind phr
+potent adj
+forefront n
+gizmo /gismo n
+gimmick n
+fizzle out phr
+redundant adj
+redundancy n
+row v/n 2
+smirk v/n
+simper v/n
+coquettish adj
+insolent adj
+insolence n
+camouflage v/n
+momentary adj
+debase v
+depreciate v
+reverberation n1
+verdant adj
+boredom n
+recoil v/n
+every so often phr
+shiner n
+aerial v/adj
+antenna n
+ineffective adj
+inoperative adj
+coil v/n
+fringe v/n/adj
+fringe benefit phr
+fixation n1
+fixation n2
+sinister aim phr
+susceptibility n
+susceptible adj
+compliant adj
+bliss n
+blissful adj
+temper v/n 1
+shed light phr
+don't mention it phr
+coin v2
+apathy n
+lingering adj
+buckle v3
+buckle down phr
+braces n
+brackets n
+brace yourself phr
+crackdown n
+crack down phr
+breaking point phr
+take on phr
+shake v2
+shake off phr
+shimmering adj
+nudge v/n
+give a nudge phr
+mutilate v
+indistinguishable adj
+conversely adv
+whatnot n
+feel for phr
+call it a day phr
+breezy adj
+discrepancy n
+discrepant adj
+pigeonhole v/n
+sedentary adj
+sedative n/adj
+boggle v
+astonish v
+grok v
+remnant n/adj
+oarsman n
+row v/n 3
+oar v/n
+relish v/n
+cramming n
+cajolery n
+coaxing n
+resurgence n
+nurturance n
+nurture v/n
+hiatus n
+hapless adj
+lapse v/n 1
+lapse v/n 2
+suss v
+sussed adj
+shrewd adj
+weigh v
+edible n/adj
+drowsy adj
+drowsiness n
+flamboyant adj
+detractive adj
+detractor n
+gnat n
+low-key adj
+inparenthesis phr
+thinly veiled threat phr
+bid v2
+wind up a watch phr
+wind up phr
+liquidate v
+liquidate a debt phr
+in the groove phr
+regretful adj
+ubiquitous adj
+fraudulent adj
+privation n
+bickering n
+bicker v/n 1
+bicker v/n 2
+unanimity n
+wrangler n
+disown v
+forswear v
+disavow v
+latch v/n
+latch on phr
+catch on phr
+wobble v/n
+retch v/n
+pliant adj
+pliable adj
+malleable adj
+last gasp phr
+last home phr
+trial n/adj 2
+detestation n
+delusiveness n
+unpredictable adj
+suffice to say phr
+suffice v
+brevity n
+fin n
+gill n
+ravine n
+to the gills phr
+prolific adj
+fritter v/n
+disperse v
+foreordain v
+unacceptable adj
+inadmissible adj
+barefaced lie phr
+barefaced adj
+undisguised adj
+brazen adj1
+brazen v/adj 2
+brazen it out phr
+brass v/n/adj 1
+brass v/n/adj 2
+brass n 3
+as bold as brass phr
+fortified adj
+degrading adj
+squander v/n
+squanderer n
+backtrack v
+renounce v/n
+abdicate v
+volatile adj
+musty adj
+malign v/adj
+malevolent adj
+inexplicable adj
+pang v/n
+pang of pain phr
+show off phr
+frown of fortune phr
+frown v/n
+grimace v/n
+scowl v/n
+groundbreaking adj
+obnoxious adj
+noxious adj
+sprawling adj
+sprawl v/n 1
+sprawl v/n 2
+mourn v
+mourning n/adj
+infidel n/adj
+fidelity n
+shuttle v/n
+slog v/n
+plod v/n
+deteriorated adj
+willow n/adj
+wear the willow phr
+wallow v/n
+wallowing in her sorrow phr
+wallow out phr
+smug adj
+conceited adj
+slip sb's memory/mind phr
+stick out phr
+riffle v/n
+riffled adj
+get over phr
+flex v/n
+flex one's muscle phr
+lowland n
+flatland n
+bottomland n
+upland n
+haze v/n
+cram-full adj
+cram smb's brains with figures phr
+to cram one's mouth with smth phr
+cram v/n
+shimmer v/n
+lambent adj
+sympathize v
+welfare service phr
+primeval adj
+stretch to the limits phr
+shoreward adj/adv
+lament v/n
+flicker v/n
+patter v/n 1
+patter v/n 2
+consensus n
+incongruous adj
+congruous adj
+scythe v/n
+redress v/n
+scathing adj
+scornful adj
+contemptuous adj
+disdainful adj
+scathe v/n
+scorch v/n
+scorch out phr
+subterranean /subterraneous adj
+conciseness n
+terseness n
+peroration n
+perorate v
+lofty phrases phr
+talk profusely phr
+profusely adv
+profuse adj
+profusion n
+unyielding adj
+unyielding refusal phr
+yielding adj
+nourishment n
+fusty adj
+mouldy /moldy adj
+stubborn adj
+docile adj
+stubborn as a mule phr
+stubborn dirt/dust/mud phr
+nutritious adj
+nifty adj
+adroit adj
+dexterous adj
+dandified adj
+foppish adj
+golly excl
+zesty adj
+explicable adj
+perseverance n
+persevere v
+unabated adj
+spiteful adj
+boastful adj
+innovative adj
+pioneering adj
+penmanship n
+goody /goodie n
+goodies n
+calumniate v
+libel v/n
+lampoon v/n
+aggravated adj
+aggravate v1
+aggravate v2
+squabbler n
+drowse v/n
+wary adj
+fret and fume phr
+fret v/n 1
+fret n2
+gizzard n
+astound v
+retrace v
+relinquish v
+unclench v
+cede v
+clenched adj
+recess v/n 1
+recess v/n 2
+alcove n
+digress v
+digression n
+smattering n
+smatterer n
+approve v
+approbatory adj
+approbate v
+have yet to do something phr
+reprehensible adj
+reprehend v
+disgraceful adj
+squandering n
+gaffe n
+blunder v/n 1
+blunder v 2
+blunder away phr
+blunder out phr
+blunder into phr
+blurt v
+irate adj
+wrathful adj
+mind-boggling adj
+inflated adj
+parenthesis n
+ridge v/n
+crest v/n
+abase v
+kingpin n
+descending adj
+sensitive adj
+remorse n
+remorseful adj
+remorseless adj
+shrub n
+bitterly adv
+a bitterly resentful phr
+metheglin n
+mead n
+remonstrate v
+reproachful adj
+vicarious adj
+atonement n 
+amends n
+resentful adj
+indiscernible adj
+flickering adj
+nonchalant adj
+matter-of-fact adj
+inconsistency n
+extirpate v
+dissimilar adj
+anodyne n/adj
+analgesic /analgetic n/adj
+painkiller n
+compartment n
+watertight adj1
+watertight adj2
+scoria n
+disabuse v
+rower n
+patrimony n
+tinge v/n
+maternal adj
+salacious adj
+salacity n
+lustful adj
+lascivious adj
+lewd adj
+lewdness n
+obscenity n
+keen-witted adj
+sagacious adj
+sagaciously adj
+sagacity n
+coax v/n
+mischievous adj
+disobedient adj
+unruly adj
+obedient adj
+calumniatory /calumnious adj
+calumniator n
+slanderer n
+lampoonist /lampooner n
+defamatory adj
+slumber n
+slumber-suit n
+pyjamas /pajamas n
+slumber party phr
+sleepover n
+exuberance n
+rascally adj
+wretched adj
+pitiful adj
+pitiable adj
+lamentable adj
+condole v
+condolence n
+pity v/n
+deceitful adj
+deceitful propaganda phr
+admissible adj
+permissible adj
+permissible variation phr
+deceitfully adv
+avow v
+perjury n
+perjurer /perjuror n
+disclaim v
+disclaim liabilities phr
+at variance phr
+variance n
+set at variance phr
+divergence /divergency n
+divergence of views phr
+tiff n
+trifle v/n
+trifle with phr
+trifling adj
+petty adj
+paltry adj
+nefarious adj
+impious adj
+frigid adj
+discontinuance /discontinuation n
+intermission n
+interlude n
+tearful adj
+teary adj
+florid adj1
+florid adj2
+pompous adj
+bombastic adj
+ruddy adj/adv 1
+ruddy adj/adv 2
+bloody adj/adv/v 1
+bloody adv/excl 2
+devilishly adj
+gory adj
+rowdy n/adj
+ruffian n
+brawler n
+brawl v/n 1
+brawl v/n 2
+broil v
+broiling adj
+broiled adj
+poxy adj
+poky /pokey adj
+satisfactory adj
+ample adj
+at one ample swoop phr
+swoop v/n
+swoop down phr
+spacious adj
+capacious adj
+commodious adj
+bulky adj
+cumbersome /cumbrous adj
+burdensome adj
+unwieldy adj
+all-embracing adj
+prevalent adj
+frolic v/n/adj
+solidify v
+commensurate adj
+incommensurate adj
+commensurately adv
+disproportionate adj
+commensurable adj
+hefty adj1
+hefty adj2
+presumptuous adj
+presumptuous insect phr
+presumptive adj
+hypothetical /hypothetic adj
+snappy adj
+snappish adj
+ungracious adj
+unobliging adj
+obliging adj
+peevish adj
+fretful adj
+quarrelsome adj
+make it snappy phr
+fuzzy adj1
+fuzzy adj2
+spongy adj
+springy adj
+marshy adj
+porous adj
+pore n1
+pore /over v2
+at every pore phr
+pore over phr
+picky adj
+exacting adj
+snippy adj
+cajole v
+oversleep v
+oodles n
+ravenous adj
+reiterate v
+rift v/n
+chasm n
+yawning adj
+gulf n
+abyss n
+engulf v
+carnal adj
+carnality n
+carnage n
+slaughter n
+homicide n
+massacre v/n
+butchery n
+verbatim n/adj/adv
+groggy adj
+tottering adj
+shaky adj
+steamroller v/n
+ineligible adj
+duck out phr
+dormancy n
+dormant adj
+startle v/n
+pensive adj
+limelight v/n
+faintly adv
+tenacious adj
+tenacity n
+hesitant adj
+clammy adj
+clam v/n
+clam up phr
+callous adj
+calloused adj
+veer v/n
+fecund adj
+cot n
+crib n
+instil /instill v
+far-fetched adj
+strained adj
+strained relations phr
+testament n
+plough /plow v/n
+plough a lonely furrow phr
+plough on phr
+plough the sands phr
+drudgery n
+drudge v/n
+menial adj
+jolt v/n
+gratitude n
+ingratitude n
+kith n
+affectionate adj
+haughty adj
+overbearing adj
+fusion n
+fuse v/n
+inflammatory adj
+inflammation n
+anti-inflammatory n/adj
+subterfuge n
+snub v/n
+snub nose phr
+snubber n
+slothful adj
+purl v/n
+iffy adj
+bog down phr
+equitable adj
+inequitable adj
+impartial adj
+unbiased adj
+tutelage n
+hurdle v/n 1
+hurdle v/n 2
+barrier v/n
+hurtle v/n
+supple v/adj
+thinly adv
+flatten v
+stabilize v
+hoar n/adj
+hoary adj
+harrowing adj
+blip n
+bleep v/n
+bleep out phr
+converse v/n/adj 1
+converse v/n/adj 2
+decency n
+preen v
+pre-emptive adj
+conduit n
+expletive n/adj
+palatable adj
+palate n
+spelunker n
+spelunk v
+flimsy n/adj 1
+flimsy adj 2
+dispatcher n
+wannabe /wannabee n
+grudgingly /begrudgingly adv
+grudge v
+have a grudge against smb. phr
+begrudge v
+work of art phr
+exacerbate v
+shrew n
+shrewish adj
+effectless adj
+I can tell you phr
+entice v
+enticing adj
+washed-up adj
+washed-out adj
+enviable adj
+unenviable adj
+prattle v/n
+prattler n
+reliance n
+notch up phr
+notch v/n
+belligerent n/adj
+rectify v
+weld v/n
+chuffed adj
+repellent adj
+tip v/n
+hit up for phr
+hit out phr
+clamp down phr
+tie v/n 2
+dead heat phr
+stand out phr
+nothing of the sort phr
+something of this sort phr
+so far phr
+dash v/n 1
+dash v/n 2
+dash v/n 3
+continuity n
+see to phr
+out of phr
+out of it phr
+be out of one's mind phr
+drill v/n 1
+drill v/n 2
+copycat n/adj
+roughly speaking phr
+mollify v
+submissive adj
+subservient adj1
+subservient adj2
+obsequious adj
+lofty adj
+alloy v/n
+fogey /fogy n
+mulish adj
+intractable adj
+tractable adj
+approach v/n 2
+get down to brass tacks phr
+get down to phr
+withering adj
+invective n
+dexterity n
+knack n
+adroitness n
+deft adj
+wry adj
+defiantly adv
+defiant adj
+glimmer v/n
+hold forth phr
+plentiful adj
+copious adj
+copiously adv
+glint v/n
+holistic adj
+chant v/n 2
+reprove v
+censure v/n
+blameworthy adj
+culpable adj
+omission n
+ballpark n1
+ballpark adj2
+aperture n
+fad n
+faddy adj
+orifice n
+carb n
+wee hours phr
+protrude v
+protruding adj
+intermingle v
+malnourished adj
+malnutrition n
+bogus adj
+sham v/n/adj
+deceiver n
+bluff v/n
+to bluff it out phr
+lazybones n
+on and off phr
+intermittently adv
+intermittent adj
+involved adj
+contagious adj
+spatial adj
+evanesce v
+evanescence n
+evanescent adj
+infinitesimal n/adj
+imperceptible adj
+delineation n
+delineate v
+cesspool n
+silhouette n
+untenantable adj
+untenable adj
+tenable adj
+slit v/n
+leech v/n
+leach v/n
+fortitude n
+fishy adj2
+puffer n
+assertive adj
+spendthrift n/adj
+fitfully adv
+fitful adj
+feverishly adv
+spasmodically adv
+cushion v/n
+concussion n
+concuss v
+allegiance n
+ungainly adj
+garner v/n
+harmful adj
+odious adj
+counteract v
+blot v/n
+efface v1
+tarnish v/n
+blemish v/n
+fastidious adj
+luscious adj
+saccharine adj
+adversity n
+nuance n
+linchpin n
+amble v/n
+wind down phr
+unwind v
+dilatory adj
+dilator n
+dilate v
+par n
+for good phr
+call out phr
+condemned adj
+clout v/n 1
+clot v/n
+clod v/n
+disrespectful adj
+packed adj
+deflate v1
+deflate v2
+backlash n
+peter out phr
+dwindle v
+sleight n
+legerdemain n
+slouch v/n
+shard /sherd n
+sapling n
+sapless adj
+sap v/n 1
+sap v/n 2
+holler v/n
+squint v/n
+asquint adv
+askew adv
+peep v/n 1
+peep v/n 2
+airily adv
+laterally adv
+hankering n
+hanker v
+yearn v
+mistiming n
+dunce n
+guise n
+under the guise of phr
+aegis n
+converge v
+damp v/n/adj
+dampen v
+moisten v
+harbour v2
+woot excl
+back on track phr
+claw your way back phr
+at once phr
+takeaway n2
+pound v/n 3
+throb v/n
+pulsate v
+reprobate n/adj
+scoundrel n
+one in every five phr
+take for granted phr
+er /erm excl
+limpid adj
+pellucid adj
+augur n
+augury n
+augmented adj
+augment v/n
+snooze v/n
+recluse n/adj
+sardonic adj
+sardonically adv
+mockingly adv
+clamour v/n
+graze v/n 1
+graze v/n 2
+as of phr
+outfox v
+outwit v
+recant v
+recantation n
+husky adj
+eavesdrop /on v
+overhear v
+uncomplimentary adj
+complimentary adj1
+complimentary adj2
+unflattering adj
+flattering adj
+adulatory adj
+adulate v
+adulation n
+servility n
+laudatory /laudative adj
+panegyric /panegyrical n/adj
+cringe v/n 2
+uproot v
+shrink back phr
+wriggle out phr
+wriggle v/n
+slither v/n
+writhe v
+writhing adj
+delinquent n/adj
+degressive adj
+fester v/n
+own up phr
+fasting n/adj
+deflower v
+disfigure v
+fascia n
+debacle n
+fiasco n
+unceremonious adj
+offhand /offhanded adj/adv
+extemporaneous adj
+extempore adj/adv
+impromptu n/adj/adv
+off the cuff phr
+havoc v/n
+insatiable /insatiate adj
+insatiably adv
+satiable adj
+satiate v
+surfeit v/n
+glut v/n
+gallop v/n
+at a gallop phr
+gruesome adj
+gruff adj
+macabre adj
+grisly adj
+venture out phr
+cardinally adv
+cloy v
+cloying adj
+pall v/n 1
+pall v2
+under a pall of darkness phr
+pall of smoke phr
+cast a pall over something phr
+envenom v
+putrefy v
+maggot n1
+maggot n2
+maggoty adj
+mirthful adj
+mirthless adj
+frisky adj
+oath n
+vouchsafe v
+maladroit adj
+fit v/n 2
+slouch about phr
+be no slouch phr
+droop v/n
+stoop v/n 1
+stoop v/n 3
+stoop to phr
+languish v
+languish in poverty phr
+cushion the blow phr
+scapegoat n
+scapegrace n
+scamp n
+scapegoating n
+scrupulous adj
+unscrupulous adj
+scruple v/n 2
+scruple v/n 1
+without scruple phr
+crookedly adv
+awry adj/adv
+slantwise adv
+aslant adv/prep
+askance adv
+grime v/n
+soot v/n
+clamant adj
+clamorous adj
+outsmart v
+overreact v
+overreach v
+smooch v
+praiseworthy adj
+laudable adj
+commendable adj
+exterminate v
+slithery adj
+serpentine adj1
+serpentine adj2
+satiety n
+admiring adj
+bravery n
+barbarous adj
+unrefined adj
+bloodshed n
+unremitting adj
+dwindling adj
+furtively adv
+furtive adj
+surreptitious adj
+surreptitiously adv
+wade v/n
+wading bird phr
+hasten v
+hastily adv
+hasten to add phr
+sapid adj
+unscathed adj
+denunciation n
+condemnation n
+smut v/n 1
+smut v/n 2
+smutty adj
+smudge /smutch v/n
+smudgy adj
+courtesy n/adj 2
+courtesy of phr
+blurred adj
+shotgun adj2
+owing to phr
+on account of phr
+deduce v
+pique v/n
+pique of honour phr
+refute v
+confute v
+disprove v
+rebut v
+diverge v
+dolt n
+doltish adj
+daft adj
+drive smb. daft phr
+infatuated adj
+infatuation n
+infatuate v
+eulogize v
+play havoc phr
+lay waste to something phr
+augmentation n
+thrust v/n 2
+yearning n
+longing n/adj
+wish away phr
+place of our own phr
+whole affair phr
+thoughtlessly adv
+inconsiderately adv
+giddily adv
+squirm v/n
+fidget v/n
+fidgety adj
+play havoc with smb's plans phr
+back on your feet phr
+happen to be phr
+happen to do smth phr
+happen along phr
+redress the balance phr
+shameful adj
+pasquinade n
+gloat v/n
+gloating adj
+gloatingly adv
+glob | globule n
+passionless adj
+squabble v/n
+repentance n
+bland adj2
+nondescript n/adj
+steadfastness n
+impregnability n
+pamper v
+pampered adj
+cosset v/n
+virulent adj1
+virulent adj2
+outweigh v
+cornice n
+corniche n
+crevasse n
+crevice n
+cavern n
+off-key adj/adv
+superficial knowledge phr
+vindictive adj
+retributive adj
+kingbolt n
+quick-witted adj
+impish adj
+irreverent adj
+indecency n
+astuteness n
+shrewdness n
+wheedle /out v
+uncontrollable adj
+wayward adj
+unmanageable adj
+adaptable adj
+adjustable adj
+restive adj
+dutiful adj
+penetrating adj
+libeller n
+injurious adj
+slanderous adj
+libellous adj
+quiescence n
+exuberant adj
+deceptive adj
+pious adj
+pious fraud phr
+pious hope phr
+rubicund adj
+demagogy | demagoguery n
+high-flown adj
+bloodstained adj
+bloodthirsty adj
+troublemaker n
+scorching adj1
+scorching adj2
+grilled adj
+pan-fried adj
+roomy adj
+cramped adj
+confined adj1
+confined adj2
+voluminous adj
+corpulence | corpulency n
+corpulent adj
+crummy adj
+grotty adj
+worthless adj
+nugatory adj
+ample time phr
+ample powers phr
+frisk v/n
+gambol v/n
+self-assertive adj
+self-confident adj
+self-assured adj
+assumptive adj
+conjectural adj
+conjecture v/n
+ford v/n
+prognosticate v
+prognostication n
+distressing adj
+mournful adj
+doleful adj
+dole out phr
+mongrel n/adj
+curt adj
+irritable adj
+bad-tempered adj
+crotchety adj
+grumpy adj
+argumentative adj
+pointed adj1
+pointed adj2
+pointed adj3
+ill-natured adj
+quick-tempered adj
+testy adj
+petulant adj
+petulance n
+outburst of petulance phr
+creep in phr
+cinder n
+charred adj
+burn something to a crisp phr
+heart v2
+hearten v
+dishearten v
+partial adj2
+be partial to phr
+dote on phr
+care for phr
+heartfelt adj
+suit yourself phr
+ungraciously adv
+graciously adv
+gracious adj
+uncivil adj
+discourteous adj
+ill-mannered adj
+well-mannered adj
+waterlogged adj
+pitch v/n 5
+pitch in phr
+moody adj
+frizzy adj
+fussy adj1
+fussy adj2
+supercilious adj
+superciliousness n
+voracious adj
+voracity n
+deepen v1
+deepen v2
+shirk v
+shirker n
+wistful adj
+flippant adj
+tentative adj1
+tentative adj2
+callus n
+fruitful adj
+fetching adj
+furrow v/n 1
+furrow n2
+embark on phr
+ruse n
+subtext n
+unjust adj
+reaver n
+reave v
+bereave v
+stratagem n
+expedient n/adj 1
+inexpedient adj
+expedient n2
+incentivise | incentivize v
+inception n
+advent n
+absorbent n/adj
+fissure n1
+fissure n2
+lust v/n
+lust after phr
+thankfulness n
+acknowledgement n1
+acknowledgement n2
+acknowledgement n3
+allure v/n
+inveigle v
+exacerbation n
+what recks him that phr
+ruinous adj
+ruinous results phr
+acerbic /acerb adj
+caustic n/adj 1
+caustic n/adj 2
+corrosive n/adj
+intrinsically adv
+intrinsically motivated phr
+intrinsic adj
+extrinsic adj
+extrinsic reward phr
+in all fairness phr
+wily adj
+insidious adj1
+insidious adj2
+perfidious adj
+animus n
+wriggler n
+derogate from phr
+bring down a peg or two phr
+persist /in /with v2
+subsist v
+urchin n
+greenhorn n
+tenderfoot n
+chalky adj
+subject to phr
+ransom v/n
+daunting adj
+intimidating adj
+daunting task phr
+daunting prospect phr
+cherish values phr
+pervasive adj
+invasive adj
+non-invasive adj
+giddiness n
+infuriate v
+enrage v
+pillar v/n 1
+pillar n2
+bulwark v/n
+minutely adj/adv 1
+minutely adj/adv 2
+meticulously adv
+thrust out phr
+thrust to the wall phr
+thrust back phr
+thrust aside phr
+unrecognized adj
+unacknowledged adj1
+unacknowledged adj2
+unattractive adj
+unappealing adj
+misinterpret v
+intercourse n
+feel aggrieved phr
+aggrieved adj
+aggrieved party phr
+reciprocity principle phr
+mutuality n
+reciprocate v1
+reciprocate v2
+reciprocal adj
+liaise v
+liaison n1
+liaison n2
+loom large phr
+utensil n
+intervening adj
+flirtatious adj
+dashing adj1
+dashing adj2
+jabberwocky n
+jabber v/n
+jab v/n1
+jab v/n2
+downs n
+fluke v/n
+secluded adj
+seclude v
+seclusion n
+foster v/adj 1
+vengeance n
+with a vengeance phr
+wreak v
+infringement n
+infringer n
+infringing article phr
+infringement on liberty phr
+infringe v
+infriction n
+encroach v
+trespass v
+intrude v
+bore v/n 1
+contravene v
+takedown n1
+takedown n/adj 2
+pouched mammals phr
+pouch v/n
+fed up to the teeth phr
+fed up phr
+cheesed-off adj
+gauge v/n 1
+gauge n 2
+take the gauge of phr
+attend v2
+cheeky adj
+blatantly adv
+whop v
+whopping adj/adv
+insuperable adj
+insuperable force phr
+superable adj
+unconquerable adj
+invincible adj
+unshakable adj
+stubbornness n
+smth new is afoot phr
+set smth. afoot phr
+for a lark phr
+lark about /around phr
+get up with the lark phr
+noncommittal adj
+uncommitted adj
+committed adj
+to tell the truth phr
+best of breed phr
+goad v/n 1
+goad v/n 2
+goad into fury phr
+impel v
+impelling adj
+impend v
+impending adj
+hereditary adj
+self-effacing adj
+efface oneself phr
+inconspicuous adj
+conspicuous adj
+unobtrusive adj
+obtrusive adj1
+obtrusive adj2
+flaunt one's wealth phr
+flaunt v
+ostentatiously adv
+ostentatious adj
+flaunt oneself phr
+accordant adj
+accordantly adv
+in accordance with phr
+with reference to phr
+handicapped adj
+auditory handicapped phr
+poacher turned gamekeeper phr
+putsch n
+coup d'état n
+slipshod adj
+simile n
+machination n
+velvety adj
+hunched adj
+be anxious to do smth phr
+unentitled adj
+be entitled to phr
+beef up phr
+uneven adj
+striped adj
+stripy adj
+stripe v/n
+practised adj
+unflappable adj
+flap v/n
+get into a flap phr
+penitence n
+penitential adj
+penitent n/adj
+fascination n
+former /the adj
+latter /the adj
+track down phr
+skittish adj
+chestnut n/adj
+mare n
+ramification /s n1
+ramification n2
+ramify v
+straddle v
+masticate v
+masticatory teeth phr
+scuttle v/n 2
+shank n2
+clout v/n 2
+hazy adj1
+hazy adj2
+fizzle v/n 1
+twizzle v/n
+squeaky adj
+squeaky clean phr
+hence adv2
+gain in momentum phr
+gather/to gain momentum phr
+lose momentum phr
+out of plumb phr
+windbag n
+chatterbox | chatterer n
+stall v3
+baste v
+heart of flint phr
+flint n
+as true as flint phr
+flint cloth phr
+suggestive adj
+suggestive remarks phr
+a wee bit phr
+multifaceted adj
+tinker v/n 1
+tinker v/n 2
+permeate v
+impregnable adj
+impregnate v1
+impregnate v2
+reverberation /s n2
+idolize v
+tarry adj1
+regress v/n
+wear and tear phr
+dazzling adj
+dazzler n
+dazzle v
+vis-à-vis n/adv/prep 1
+vis-à-vis adv/prep 2
+render harmless phr
+of value phr
+of yore phr
+ever since phr
+exertion n
+exert oneself phr
+exert pressure phr
+be daft about phr
+air of confidence phr
+dogged adj/adv
+doggedness n
+doggedly adv
+vehement adj
+vociferous adj
+strident adj
+clumsy adj
+coerce v
+pressurize v
+piqued adj
+drooping adj
+irritate v
+grimy adj
+titbit n
+silt n
+incursion n
+devolve v
+supervene v
+incurred adj
+tied up phr
+besotted adj
+quarry v/n 1
+quarry n 2
+muddy v/adj
+turbid adj
+crack open phr
+backfire v
+appease v1
+appease v2
+exhort v
+thanks a bunch phr
+best of the bunch phr
+bunch up phr
+excel v
+complaisant adj
+overt adj
+covert adj
+sort out phr
+slab n
+convalesce v
+convalescent n/adj
+brash adj
+snuff v/n
+binder n
+au contraire phr
+conflate v
+upmarket adj
+downmarket adj
+upscale adj
+peruse v
+look up to phr
+hark back phr
+trounce v
+trough n
+throwback n
+forgo v
+slip-up n
+adjourn v1
+adjourn v2
+sublime adj
+after a while phr
+trivia n
+pane n
+lateral n/adj
+recklessly adv
+dizzily adv
+inquisitively adv
+remit v1
+remit v2
+prickly adj
+maritime adj
+slime n
+chastisement n
+ring a bell phr
+bigoted adj
+blob n
+punitive adj
+quiescent adj
+acquiescent adj
+acquiescence n
+coddle v/n
+pose a problem phr
+bereft of phr
+to go to every expedient phr
+economically expedient phr
+mettle n
+mettlesome /mettled adj
+comeuppance n
+famished adj
+tenfold adj/adv
+bungle v/n
+bungled operation phr
+bungler n
+botcher n
+botch v/n
+get away with phr
+glee n
+gleeful adj
+gleefully adv
+cotton on phr
+days are numbered phr
+thrift n
+thriftless n
+thriftiness n
+thrifty adj
+frugal adj
+ajar adj
+cheep v/n
+trickle v/n 1
+trickle v/n 2
+dystopian adj
+dystopia n
+utopia n
+incinerate v
+incineration n
+opulence n
+opulent adj
+harp v/n 1
+harp on phr
+snoop
+snooperscope n
+snoopy adj
+oblivious adj
+oblivion n1
+oblivion n2
+indelible adj
+bucolic adj
+lesion n
+trek v/n
+daring n/adj
+daringly adv
+window ledge phr
+windowsill n
+eponymous adj
+cerebral adj
+haemorrhage n
+plunder v/n
+pillage v/n
+huff and puff phr
+mercurial adj1
+mercurial adj2
+mercurial mood phr
+unsnap v
+clasp v/n 1
+clasp v/n 2
+ruminate v
+ruminative adj
+rumination n
+ruminant adj
+cud n
+ox n
+as strong as an ox phr
+close game phr
+perk up phr
+perky adj
+the perks of a job phr
+perquisite n
+assiduous adj
+assiduously adv
+assignee n
+assignor n
+derelict n/adj
+ad hoc phr
+deferred adj
+sordid adj
+ignoble adj
+runny adj
+wacky adj
+so far so good phr
+cuddly adv
+regal adj
+regally adv
+transpire v1
+transpire v2
+transpire v3
+turn out phr
+choppy adj
+rut v/n 1
+rut v/n 2
+rut v/n 3
+once and for all phr
+ifs and buts phr
+cornerstone n
+codependency n
+spiel off phr
+reel off phr
+rock bottom phr
+heave v/n 1
+heave-ho excl
+heave a sigh phr
+heave v/n 2
+low v/n 2
+close call phr
+by a close shave phr
+scavenger n
+scavenge v
+rag doll phr
+alimony n
+propensity n
+yolk n
+tread v/n 
+treadle v/n
+bawl v/n
+bawl and squall phr
+bawl out phr
+no harm, no foul phr
+bamboozle v
+cushy adj
+cushy job phr
+sinecure n
+ensconce v
+dispel v
+trout n
+old trout phr
+invidious adj
+divisive adj
+meek adj
+meekly adv
+meekness n
+as meek as a lamb phr
+harbinger n
+hazel n
+half past two phr
+in full phr
+festivity n
+wuss n
+concoction n1
+concoction n2
+snazzy adj
+snaky adj
+bracelet n
+interrogate n
+interrogatively |interrogatingly adv
+prurient adj
+prurience /pruriency n
+itch v/n 1
+itch v/n 2
+good riddance phr
+dangle v
+dangle-dolly n
+dangling adj
+entourage n1
+entourage n2
+peccadillo n
+peccable adj
+extramarital adj
+marital adj
+impeccable adj
+impeccable reputation phr
+lenient adj
+leniency n
+chaste adj
+chastise v
+chastity n
+chastity belt phr
+shenanigans n
+jagged adj
+gash v/n
+powerless adj
+unabridged adj
+abridged adj
+snot v/n
+mucus n
+sleazy adj
+sleazebag /sleazeball n
+admonish v1
+admonish v2
+admonitory adj
+dame n
+handover n
+hand over phr
+scour v1
+scour v2
+effrontery n
+jinx v/n
+jinxed adj
+superstition n
+superstitious adj
+garret n
+pincer /pincers n
+high jinks phr
+foolhardy adj
+foolhardily adv
+packthread n
+ostensibly adv
+as to phr
+fling v/n 1
+fling v/n 2
+pimple n
+pimpled /pimply adj
+on the bright side phr
+ogle v/n
+plush n/adj
+plash v/n
+clearance n1
+clearance n2
+clearance n3
+gawky adj
+gawk v/n
+gawk one's eyes phr
+chug v/n 1
+chugalug /chug v2
+mia abbr
+charcoal n
+in any event phr
+in hour of need phr
+on both counts phr
+guilty on all counts phr
+come in handy phr
+play coy phr
+don't be coy phr
+spinner n
+ascertain v
+respite v/n
+breadth n
+lend a hand phr
+pun v/n
+incorrigible adj
+corrigible adj
+grove n
+grovel v
+mangrove n
+lapidary adj
+grumpily adv
+grump v/n
+frivolous adj
+animate v/adj 1
+animate v/adj 2
+animated adj
+inanimate adj
+lull v/n 1
+lull v/n 2
+lull to sleep phr
+the lull before the storm phr
+diligently adv
+meddlesome adj
+meddleproof adj
+grotesque n/adj
+venial adj1
+venial adj2
+indiscretion n
+encroachment n
+recipathy n
+irreciprocal adj
+sense of guilt phr
+persistence n1
+persistence n2
+invulnerable adj
+feel an urge phr
+boastfully adv
+be conspicuous by your absence phr
+imperturbable adj
+stride v/n
+old chestnut phr
+henceforth adv
+dread v/n
+baton n
+pass the baton phr
+gallant adj1
+gallant adj2
+strapping adj
+fair shares for all phr
+very adj/adv
+too adv
+oddity n
+be keen to phr
+drifter n
+a ghost of a chance phr
+vestige n1
+vestige n2
+at any rate phr
+at stake phr
+whence adv
+second-guess v
+at hand phr
+for the nonce phr
+in the making phr
+take some getting used to phr
+in no time phr
+gratifying adj
+ignominy n
+ignominious adj
+ken n
+pronged adj
+prong v/n
+all of a sudden phr
+impassability n
+vastly adv
+out of spite phr
+as if out of spite phr
+scald v/n
+scalding adj1
+scalding adj2
+mishear v
+barge v/n 1
+barge v2
+humility n
+point taken phr
+sworn foe phr
+high time phr
+heartwarming adj
+denizen n
+at long last phr
+intrusive adj
+stall for time phr
+evocative adj
+pitchy adj
+blinding adj
+confluence | conflux n
+disarm v
+sheer n/adj 3
+resignation n2
+rap v/n 2
+down n2
+follow v2
+reconsider v
+content v/n 4
+pound v/n 4
+thorny adj1
+thorny adj2
+neutralize v
+pull out smb.'s claws phr
+forsaken adj
+forsooth
+draughty
+find out phr
+in any case phr
+on the line phr
+breadth of vision phr
+painstakingly adv
+it is gratifying phr
+to be fond phr
+modesty n
+humbleness n
+impassable adj
+incurable adj
+ineradicable adj
+within ken phr
+make great strides phr
+with every stride phr
+seven-league
+gain on phr
+ruck n
+reprieve
+without respite phr
+stridently adv
+be tempted
+be dying
+eccentricity
+unburden
+unruffled
+pin on
+ditto
+bearer
+imprudence n
+put in mind of phr
+regale with phr
+stand at attention phr
+crave
+within/​outside the remit of phr
+volant
+tenaciously adv
+preponderate /over v
+preponderantly adv
+preponderance n
+predominance n
+take place phr
+provisional adj
+valiant adj
+leniently adv
+once in a while phr
+keep in mind phr
+incompatible adj
+clampdown
+feeler
+coddled
+effete
+unripe adj
+ransack
+conflation
+astutely adv
+shrewdly adv
+sporadically adv
+good-for-nothing n/adj
+feckless adj
+tentatively adv
+lean on phr
+purposely adv
+omnivorous adj1
+omnivorous adj2
+herbivorous adj
+brat
+make up for phr
+untimely adv
+annihilation n
+sinful adj
+inattentive adj
+bleeding n/adj
+sprightly
+bewildered
+maladjusted
+scruffy adj
+grubby
+purr
+heatedly
+overlapping
+purposefully
+unyieldingness
+back-sass
+wearisome
+proved fatal
+hurriedly
+determination
+roundly trounced
+euphoric sigh of relief
+swindle
+swindled adj
+fickle
+baloney
+invidiously
+presumable
+schlep(p)
+invidious position
+flagrant
+dig in
+reform
+pre-empt
+belligerently adv
+sensibility n
+shrivelled
+recklessness
+aforesaid
+treacherously
+traitorously
+brevity is the soul of wit
+despotic
+tyrannical
+rearguard
+virtually adv
+stinging adj
+remediable adj
+unfasten v
+mug
+impeccability n
+whore v/n
+inadvertently adv
+diurnal
+cheat on phr
+unfaithful
+just out of swaddling clothes phr
+snobbish adj
+appreciable
+wean
+rehearsed adj
+mien n
+deadbeat n2
+atone v1
+atone v2
+expiate v
+jointly and severally phr
+unfeasible adj
+labyrinth n
+skulk v
+high as a kite phr
+fly a kite phr
+skin and bone phr
+streak n1
+streak n2
+streak v3
+drench
+watchful adj
+flavourless | flavorless adj
+destitute /of adj2
+barren
+beaten adj
+trudge v/n
+surly adj
+surly as a bear phr
+churlish adj1
+churlish adj2
+at your peril phr
+surrogate v/n
+schism n
+bugger it phr
+deserving adj
+unworthy adj
+opportune
+inopportune
+lacklustre | lackluster adj
+adoration n
+willingly adj
+non-linear
+in all likelihood phr
+run out phr
+engrossing adj
+ulterior
+puerile adj
+ripple
+host n2
+host n3
+demur
+In crude terms phr
+revolve v2
+preceding adj
+inconsistently adv
+cleanse
+purify
+outlying 
+mizzle
+puberty
+castigate
+slap on the wrist phr
+unsophisticated
+astonishingly
+inauthentic
+in the wings phr
+unsympathetic
+quicken
+seamlessly adv
+take into consideration
+inoffensive
+seeming adj
+insulting adj
+insincere adj
+fulsome adj
+inadequately
+engrossed
+intentional adj
+premeditated adj
+bar none phr
+mala fide phr
+upwards of phr
+for no reason phr
+under threat phr
+in tatters phr
+impartially adv
+live on one's nerves phr
+if you please phr
+propound v
+newly acquired phr
+cream of the crop phr
+disengage v
+bearable adj
+incredulous adj
+nullify v
+negate v
+mounting adj
+flurry
+flutter 
+flinch
+bombard
+rejuvenate v
+rejuvenated adj
+rejuvenation | rejuvenescence n
+spark plug phr
+innuendo
+in the interim phr
+ad interim phr
+determined
+indignantly adv
+pat
+fully intend phr
+lift out of context phr
+quizzical 
+wedge
+claw v/n
+talon n
+due n/adj/adv 1
+uncompetitive adj
+entrust v
+occupied adj
+fractured adj
+bolster v/n
+holster | unholster n
+upholster v
+overstep
+ramp up phr
+ramp
+sprinkle v/n 2
+sketchy adj1
+sketchy adj2
+forte
+depleted adj
+simulacrum | simulacra n
+carnal knowledge phr
+louse up phr
+amiss adj/adv
+go amiss phr
+be amiss phr
+take amiss phr
+tummy | tum n
+clandestine adj
+covertly adv
+clandestinely adv
+unbound adj
+prying adj
+preen yourself phr
+infuse v1
+infuse v2
+infusible adj
+infused adj
+inner light phr
+potty mouth phr
+scrunch v/n 1
+scrunch v/n 2
+fiercely adv
+boisterously adv
+incomprehensible adj
+hotbed of tension/war/disease phr
+coyness n
+coyly adv
+affectedly adv
+glistening adj
+glisten v
+glittering adj
+go for broke phr
+go broke phr
+broke adj
+penniless adj
+round-the-clock adj
+diffident adj
+diffidence n
+timorous adj
+sultriness n
+cranky adj1
+cranky adj2
+judder v/n
+undulating adj
+unnerve v
+bristle /with v3
+bridle v/n 1
+bridle v/n 2
+unbridled adj
+unbridle v
+stubble n
+stubbly adj
+unkempt adj
+kempt adj
+for instance phr
+nothing short of phr
+trailblazer n
+trailblazing adj
+in succession phr
+wreak revenge phr
+pad out phr
+focused adj
+paint oneself into a corner phr
+taxing adj
+demanding adj1
+demanding adj2
+effortful adj
+well-intentioned adj
+judiciously adv
+fuzz n1
+fuzz v/n 2
+go in particulars phr
+side against phr
+pound into phr
+take into account phr
+leave out of account phr
+of no account phr
+on no account phr
+moot point phr
+dumbfound v
+dumbfounded | dumbstruck adj
+at gunpoint phr
+gunpoint n
+serendipity n
+glaring mistake
+vista n1
+vista n2
+sprinkling | sprinkle n
+nook n
+every nook and cranny phr
+cranny n
+nookie | nooky n
+sheltered adj
+poke into phr
+poke out phr
+poke/stick your nose into sth phr
+hunk n1
+hunk | hunch n2
+hunky adj
+in vain phr
+alluring adj
+tickle your fancy phr
+learn the ropes phr
+navel n
+tummy button phr
+unbutton v
+clad in phr
+sojourn v
+bide your time phr
+ibidem
+fallout n1
+fallout n2
+lout n
+lager lout phr
+uncouth adj
+couth adj
+oafish adj
+loutish adj
+jostle v
+root for phr
+underdog n
+overdog n
+give up the ghost phr
+lovelorn
+unrequited
+forlorn
+lorn
+forlornness
+requite v
+lead life phr
+lead the van phr
+in the van phr
+lead me to phr
+dissolute adj
+facade
+semblance n
+show them our pecs
+pinpoint, указать точно
+dilution, solution to pollution is dilution
+skim снимать пену
+brackish
+sobering reality
+suicide pact, phr?
+staunch
+stanch
+stench
+primed заряженный итд
+flinch
+muster in, out, up
+rile
+sedgy
+out of your hair phr
+dog-eat-dog
+absolvo te
+absolve
+unfazed
+locust, locus
+to get nutmegged
+graminivorous
+caveats and pitfalls
+adorn, corn, acorn
+acorn
+lambaste
+in the wake of
+stop at nothing
+handy
+chock full
+last-ditch
+go tits-up
+tit for tat
+in defiance of
+clandestine
+give it a go
+sparrow fart, cock sparrow
+run low
+bad hair day
+straight from the stable
+upheaval
+from the same stable
+oblique
+carve ones way
+retinue
+pillowy
+pillory
+pittance
+roundly полностью
+splash out транжирить
+uncanny
+decry
+it is fascinating to
+marrow
+forte
+uttered как pronounced
+belated
+leafage
+bald-faced
+tortuous
+sentimental
+larva
+intermittently
+abundantly
+punitory
+wounded
+gave heart
+sporadic
+spasmodic
+devout
+pre-empt | preempt v1
+pre-empt | preempt v2
+forestall v1
+forestall v2
+grind out phr
+out of whack phr
+storey | story (us) n
+upper storey phr
+immolate v
+immolation n
+dishevelled | disheveled adj
+dishevel v
+tousled adj
+tousle v
+hew v1
+hew v2
+hewn adj
+cabin n
+lest
+lest we forget phr
+grimoire n
+scribble v/n
+scribbler n
+scribbling n
+incapacitated adj
+debilitated adj
+incapacity n
+incapacitate v
+enclave n
+trumped-up
+chompers n
+rain or shine phr
+not a drop phr
+not a whit phr
+trying adj
+nomad n
+nomadic adj
+herdsman n
+fueled adj
+seethe v
+seething adj
+spate n
+laud v/n
+obituary n
+hither | hitherward adv
+hitherto adv
+seesaw n/adj
+go seesaw phr
+emotional seesaw phr
+femur n
+shin up/down phr
+fen n
+bog v/n
+peat n
+will-o'-the-wisp
+wisp n
+moor n1
+moor v2
+berth v/n 1
+berth v/n 2
+give a wide berth to phr
+heath n
+heather n
+slew | slue v/n 1
+slew n 2
+twofold adj/adv
+bifold n
+pseudomanifold n
+manyfold | manifold n/adj/adv
+onefold adj
+enfold v1
+enfold v2
+envelop v
+scaffold n1
+scaffold v2
+scaffolding n
+amplify v1
+amplify v2
+amplification n
+keep an eye on phr
+tipping point phr
+spouseless adj
+embodiment n
+epitome n
+epitomize | epitomise v
+incarnation n
+reincarnation 
+tangible adj1
+tangible adj2
+tangible assets phr
+tangibles n
+intangibles |intangible assets n
+intangible adj
+impalpable adj
+impalpable distinctions phr
+palp n
+palpable adj1
+palpable adj2
+palpate v
+palpitate v
+in essence phr
+naivety n
+mediator n
+medium n2
+placate v
+placatory adj
+appeasing adj
+sorely adv1
+sorely adv2
+pernicious adj
+pernicious habits phr
+insoluble adj1
+insoluble adj2
+insoluble problem phr
+soluble adj1
+soluble adj2
+oat n
+bran n
+influx n1
+influx n2
+influx of tourists phr
+inflow n1
+inflow n2
+outflow n
+leakage n
+recurring adj
+knackered adj
+squiggly adv
+squiggle n
+bent double phr
+nick v/n
+in the very nick of time phr
+incarnate v/adj 1
+incarnate v/adj 2
+concave n/adj
+convex adj
+convexo-concave adj
+solvable adj
+vigorously adv
+determinedly adv
+enlarge on phr
+graven adj
+pseudo-science n
+tangibly adv
+innocuous adj
+innocuous question phr
+nocuous adj
+allay v
+tentacle n
+scotch v1
+squelch v/n
+palpitation n
+toady v/n
+shortly adv
+in a short space of time phr
+wear off phr
+a novelty wears off phr
+wear on phr
+drag on phr
+eviscerate v1
+eviscerate v2
+eviscerated adj
+disembowel | embowel v
+bowel n1
+bowel /s n2
+bower n
+pot n
+sure thing phr
+defect v
+vicious circle phr
+vicious adj2
+virtuous adj
+virtuous circle phr
+sift v1
+sift v2
+sift out phr
+sifted adj
+sieve v/n
+sift the wheat from the chaff phr
+molehill n
+make a mountain out of a molehill phr
+trainee n
+trainer n
+newlywed /s n
+all the way phr
+sitting duck phr
+nitwit n
+impale v
+transfix v1
+transfix v2
+transfixed adj
+nitty adj
+on a platter phr
+step on it phr
+sentient adj
+hamlet n
+handsomely adv
+generously adv
+lavishly adv
+badger n1
+badger v2
+pester v1
+pester v2
+lay your cards on the table phr
+in an instant phr
+in a twinkling phr
+at that very instant phr
+gargantuan adj
+gargle v/n
+booger n
+nay n1
+nay adv2
+detriment n
+without detriment phr
+detrimental adj
+detrimental to health phr
+detrimental consequences phr
+detrimental effect phr
+detritus n
+snag v/n 1
+snag v2
+snag v3
+knot n2
+gordian knot phr
+up in arms phr
+adage n
+adagio n
+knee-jerk adj1
+knee-jerk adj2
+outcry n
+across-the-board adj/av
+syringe n
+batch n2
+fraught /with adj1
+fraught adj2
+forage v/n
+poised /be adj
+contrition n
+contrite adj
+contritely adv
+contrive v
+contrived adj
+overemphasize v
+lumbering adj
+dereliction of duty phr
+dereliction n1
+dereliction n2
+carved adj
+unostentatious adj
+muddled adj
+muddle-headed adj
+muddled feelings phr
+lawsuit n
+vexatious adj
+off the bat phr
+up one's sleeve phr
+roll up your sleeves phr
+laugh up your sleeve phr
+bon vivant phr
+bon viveur phr
+sword of damocles phr
+to the letter phr
+bon voyage phr
+somersault | summersault | somerset n
+jingo n/adj
+chauvinist n
+warmonger n
+patrioteer n
+boudoir n
+longevity n
+premature adj
+prematurely adv
+moonlight v
+sideline n1
+sideline v2
+posthumously adv
+posthumous adj
+sneer v/n
+sneering adj
+indisputable adj
+disputable adj
+indubitable adj
+indubitably adv
+dubitable adj
+strenuous adj
+strenuously adv
+cast doubt phr
+disgorge v
+disgorger n
+gorge /on v/n 2
+exurb | exurban n
+exult v
+exalt v
+exalt to the skies phr
+exaltation n
+exultation | exultancy n
+exultant adj
+lay out phr
+pejorate v
+pejorative adj
+unsavoury adj
+distasteful adj
+diabolically adv
+permissiveness n
+all-or-nothing adj
+mindset n
+underpin v
+defalcate v
+alacrity n
+gauze n
+carve out phr
+carve out a career for oneself phr
+replenish v
+replenished adj
+deleterious adj
+impurity n1
+impurity n2
+dalliance n
+attenuating circumstance phr
+extenuating adj
+attenuate v
+attenuated adj1
+attenuated adj2
+extenuate v
+boil down to phr
+austerity n
+austere adj
+ascetic n/adj
+fresh out phr
+short out phr
+short circuit phr
+aspiring adj
+raving n/adj 1
+raving adj/adv 2
+gripping adj
+ingrained habit phr
+ingrained | engrained adj1
+ingrained | engrained adj2
+ingrain | engrain v
+to ingrain in one's memory phr
+engraft v
+knock it off phr
+divulge v
+divulge information phr
+placard v/n
+per se phr
+ebb v/n
+ebb and flow phr
+at a low ebb phr
+reflux n
+inverse n/adj
+inverse proportion phr
+invert v
+invertebrate adj
+vertebrate adj
+vertebral adj
+spare v2
+pout v/n
+quip v/n
+coercion n
+coercive adj
+brim v/n
+brim over phr
+brimful adj
+pluck n1
+pluck v2
+pluck up courage phr
+plucky adj
+whereabouts n/adv
+pave the way phr
+paved adj
+point-blank adj/adv
+formidable adj
+chaff
+fawn v/n 1
+fawn v2
+fawn /on,over v3
+put an end to phr
+squash v/n
+quash
+backdraught
+fraught with grave consequences phr
+plenitude
+entrenched adj
+mitigate v
+mitigating n/adj
+mitigation n
+in mitigation phr
+unmitigated adj
+whole lot phr
+come up with phr
+take up arms phr
+coalesce
+tipsy
+tiptoe
+funster
+bay
+unbeknown
+insecure
+doozy
+irk
+aplomb
+blasé
+flabby
+malfunction v/n
+rendezvous v/n
+cranium n
+tryst n
+against the odds phr
+suspenseful adj
+ration v/n
+dum-dum n
+treadmill n1
+treadmill n2
+impress
+visceral
+for the ages phr
+web of lies phr
+indecision n
+passerby | passer-by n
+severance n1
+severance n2
+severance pay phr
+enshrine v1
+enshrine v2
+enshroud v
+gut feeling phr
+gut issue phr
+gut-wrenching adj
+not everybody’s cup of tea phr
+that's another cup of tea phr
+heart-rending | heartrending adj
+blood-curdling | bloodcurdling adj
+bloodcurdling sight phr
+curdled milk phr
+curd n
+curdle v1
+curdle v2
+succumb /to v1
+succumb /to v2
+quote unquote phr
+crate v/n
+scatterbrain n
+scatterbrained adj
+brush with death phr
+brush n 2
+encounter v/n 1
+encounter v/n 2
+hell-bent | hellbent /on adj
+hangdog adj
+stand in the way of something phr
+affinity n1
+affinity n2
+life in shambles phr
+shambolic adj
+shambles n
+shamble v/n
+whiplash n1
+whiplash n2
+work under the whiplash phr
+rear-end v
+beholder n
+cachet n1
+cachet n2
+salve v/n
+hubby n
+putter around phr
+solace v/n
+free rein phr
+carte blanche phr
+silver lining phr
+hit a wall phr
+tough it out phr
+long-haul adj
+short-haul adj
+get-up-and-go n
+tank v2
+in limbo phr
+willy-nilly adv1
+willy-nilly adv2
+perforce /of, by adv
+haphazardly adj
+bimbo n
+unhinged adj
+unhinge v1
+unhinge v2
+unhindered adj
+inexhaustible adj
+sworn in phr
+mount v2
+all too phr
+know only too well phr
+tourniquet n
+turnstile n
+flabbergasted adj
+flabbergast v
+hail of bullets phr
+volley v/n
+head-first adv
+non-renewable | nonrenewable adj
+gobbler n
+gobble v1
+gobble v/n 2
+gobble up phr
+plotter n
+unrelentingly adv
+unrelenting adj1
+unrelenting adj2
+dominance n
+domination n
+lob v
+simply put phr
+hit n2
+factoid n
+drugged adj
+cement v/n
+with pomp phr
+sparkly clean phr
+scintillating adj
+scintillation n
+sparkling adj1
+sparkling adj2
+every other day phr
+every path has a puddle phr
+be up to phr
+pussyfoot v1
+pussyfoot v2
+pussyfooting n
+mundanely adv
+mundane adj
+humdrum n/adj
+bombshell n
+blonde bombshell phr
+blonde moment phr
+underbelly n
+underbelly n2
+monsoon n
+piece together phr
+grandiloquent adj
+grandiloquently adv
+preparedness n
+of no use phr
+wobbly adj
+bodacious adj
+germination n
+germinate v
+partition v/n 1
+partition v/n 2
+disjointed adj1
+disjointed adj2
+braid v/n
+frame of mind phr
+vested interest phr
+sunder v
+in sunder phr
+asunder adv
+dupe n1
+dupe v1
+dupe v/n 2
+viper n
+bosom n
+adder n
+preventative | preventive adj
+therapeutic | therapeutical adj
+incumbent n/adj
+myriad n/adj
+wimp n
+wimpish | wimpy adj
+wimp out phr
+spineless adj1
+spineless adj2
+buffoon n
+buffoonery n
+slapstick n/adj
+farce n
+farcical adj
+farcically adv
+farcify v
+tarnation excl
+unmoor v
+somehow adv1
+somehow adv2
+and all phr
+milieu n
+freakish adj1
+freakish adj2
+freakishly adv
+lash v
+millennium n
+as long as phr
+squirrel away phr
+pastime n
+tailor v2
+eschew v
+keep mum phr
+amnesty v/n
+fell n3
+fell v1
+fell v2
+dispirit v
+caddish adj
+cad n
+congenital adj
+congenial adj1
+congenial adj2
+whey n
+swallow pride phr
+turmoil n
+turmeric n
+oust v
+blindside v
+allude v
+furore | furor n
+pan out phr
+bivalve adj
+valve n2
+rock-a-bye phr
+litterbug n
+in part phr
+come to prominence phr
+quintessential adj
+quintessence n
+inundation n1
+inundation n2
+inundate v
+felt v/n/adj
+upheaval n1
+upheaval n2
+potted adj2
+Achilles' heel phr
+soft spot phr
+loaded with phr
+ninny n
+pelt n1
+pelt v2
+pelt /down v3
+peltry n
+at full pelt phr
+seamy side phr
+seamy adj
+predicament n
+genial adj1
+genial adj2
+someway adv
+for some reason phr
+dismembered adj
+mutilated adj
+have a blast phr
+cut loose phr
+bisect v1
+bisect v2
+in two phr
+topple over phr
+capsize v
+ludicrous adj
+ludicrously adv
+improbable adj
+improbably adv
+precautionary adj
+kindred n1
+kindred adj2
+boor n
+boorish adj
+foamy adj
+frothy adj1
+frothy adj2
+intoxicating adj
+froth v/n
+froth with rage phr
+be incumbent on phr
+whittle v1
+whittle away phr
+reed n
+cuckoo n1
+cuckoo adj2
+nutty adj2
+of its ilk phr
+lock out phr
+fruition n
+bandwidth n
+stoke v1
+stoke /up v2
+stoke /up v3
+stoker n
+complacency n
+complacent adj
+inscrutability n
+inscrutable adj
+inscrutably adv
+incomprehensibility n
+incomprehensibly adv
+undignified adj
+outpouring /s n
+serum n
+raggedy adj
+oozy adj
+ooze n1
+ooze v2
+exude v
+exudation n
+nip in the air phr
+nip /at v/n 1
+blade n2
+whelp v/n
+suckle v
+unearthly adj1
+unearthly adj2
+unearthly hour phr
+go grey phr
+equilibrium n1
+equilibrium n2
+equilibrist n
+equilibrant force phr
+equilibrate v
+to date phr
+preparatory work phr
+benign adj1
+benign adj2
+benign adj3
+benign neglect phr
+get the ball rolling phr
+greenlight v
+split second phr
+lickety-split adv
+shabby adj1
+shabby adj2
+newish adj
+new-found adj
+unrivalled | unrivaled adj
+searing adj1
+searing adj2
+searingly adv
+sear v
+cover charge phr
+admission price phr
+overpriced adj
+like-mindedness n
+like-minded adj
+like-minded man phr
+think-tank n
+resurface v1
+resurface v2
+confidently adv
+confidentially adv
+nee adj
+bumbling adj1
+bumbling adj2
+bumble v1
+bumble v2
+bumblebee n
+remunerate v
+remuneration n
+remunerative work phr
+without remuneration phr
+remunerative adj
+gainful adj
+gratification n
+enthusiastic adj
+be nutty about phr
+scintilla n
+scintilla of truth phr
+scintillate v
+quandary n
+counterbalance n
+kindred spirit phr
+happy-go-lucky adj
+of sorts phr
+seethe with anger phr
+at full blast phr
+at full speed/tilt/pelt/throttle phr
+unhewn adj1
+unhewn adj2
+stuffed adj
+haphazard adj
+at haphazard phr
+in a split second phr
+ridiculously adv
+preposterously adv
+slimy adj
+chime in phr
+in chime phr
+rein v/n 1
+rein v/n 2
+tattle v/n
+tattletale | telltale n
+flux v/n
+wire v/n
+jack v/n
+climax v/n
+on the back foot phr
+sweeping adj
+faltering adj1
+faltering adj2
+falter out phr
+falter v1
+spacey adj
+ethereal adj
+ethereal adj2
+spaced out phr
+seamless adj1
+seamless adj2
+loosely adv1
+loosely adv2
+demeaning adj
+pithy adj
+pith n1
+pith n2
+facilitator n
+insomuch that phr
+insomuch as phr
+inasmuch as phr
+insofar as phr
+liberally adv
+yin and yang phr
+circumvention n
+circumvent v
+right on phr
+pedal v/n/adj
+sabre-rattling | saber-rattling n
+draft n2
+conscription n
+conscript v/n/adj
+draftee n
+call-up paper phr
+corpsman n
+tenet n
+non-proliferation n
+cannon fodder phr
+fodder n
+hit a snag/problems/a bad patch phr
+annex v1
+annex | annexe n2
+hold nerve phr
+trilateral adj
+unilateral adj
+yippee excl
+yippie n
+unsurpassed adj
+cauterize v
+pithy adj2
+pithy remarks phr
+bountiful adj1
+bountiful adj2
+bountifully adv
+culminate v
+culminating adj
+culminant adj
+culmination n
+culm n
+at full throttle phr
+zealous adj
+zealously adv
+zealousness n
+zealotry n
+zealot n
+zeal n
+zeal for liberty phr
+zeal without knowledge phr
+a bad patch phr
+not a scintilla phr
+flounder n1
+speak into existence phr
+seedy adj1
+seedy adj2
+petri dish phr
+chip away phr
+chip away at a rock phr
+war-torn adj
+to the rescue phr
+go to the rescue phr
+hard-wired adj
+be thought to be phr
+be considered to phr
+drone on phr
+at someone's disposal phr
+bygone adj
+Let bygones be bygones phr
+devoid of phr
+christen v1
+christen v2
+gloop n
+glop n
+lukewarm adj1
+lukewarm adj1
+treacly adj
+treacle n1
+treacle n2
+jibe | gibe v/n
+roundabout n/adj
+swings and roundabouts phr
+bust n1
+slam v3
+impunity n
+with impunity phr
+connivance n
+connive /at/in v1
+connive v2
+flagrantly adv
+flagrant adj
+spurious adj
+bile n
+between a rock and a hard place phr
+muzak n
+redeemable adj1
+redeemable adj2
+irredeemable adj
+maelstrom n
+churning adj
+craven adj
+cry craven phr
+up the ante phr
+on the run phr
+veneer v/n 1
+veneer v/n 2
+assumption n2
+merciless adj
+mercilessly adv
+mercifully adj1
+mercifully adv2
+pollinate v
+pollination n
+besieged adj
+besiege v
+scupper v
+resort to force phr
+imminence n
+nestle up phr
+nestle v
+ejection n1
+ejection n2
+potpourri n
+miscellany n
+fanfare n
+with great fanfares phr
+fanfaronade n
+tailback n
+brandish v1
+brandish v2
+hubris n
+bravado n
+hubristic adj
+roll of the dice phr
+roiling n
+roil v
+roily adj
+roister v
+roisterer n
+summons v/n
+lay claim phr
+more of phr
+more or less phr
+pellet n
+winded adj
+bud v/n
+sprout v/n 1
+sprout v2
+brussels sprout phr
+nab v1
+nab v2
+partake /in v1
+partake /of v2
+partake /of v3
+coherence | coherency n
+tug v/n
+tug at the oars phr
+tug at someone's heartstrings phr
+nip in the bud phr
+differ v1
+differ v2
+tastes differ phr
+swing /s n
+saunter v
+bonfire n
+inbound adj
+ramp up phr
+point out phr
+mesh v/n 1
+mesh v2
+mesh with smth phr
+timeline n
+double down phr
+in thrall phr
+arty-farty | artsy-fartsy adj
+artsy | arty adj
+take the plunge phr
+cast n2
+pitfall n1
+pitfall n2
+meandering river phr
+meanderingly adv
+meander v/n
+pull oneself together phr
+salty adj2
+amass v
+bemuse v
+bemused adj
+go rogue phr
+chummy adj
+slap in the face phr
+reappraisal n
+appraisal n
+tacitly adv
+taciturn adj
+monosyllable n
+tacit adj
+compounded adj
+egregious adj
+egregiously adv
+established adj1
+established adj2
+long established phr
+governed adj
+strong-arm v/adj
+die-hard | diehard n/adj 1
+die-hard adj 2
+die-hard n/adj 3
+pat on the back phr
+inertia n
+iridescent adj
+opalescent adj
+throw out a sprat to catch a mackerel. phr
+sprat n
+to God phr
+candidly adv
+salient adj
+salience n
+dredge up phr
+actionable adj
+indescribably adv
+expunge v1
+expunge v2
+to put it crassly phr
+miscellanea n
+miscellaneous adj
+jeer v/n 1
+jeer v/n 2
+embrace v3
+talk down to phr
+mint v/n
+mint of money phr
+in mint condition phr
+herald v/n
+sink in phr
+set aside phr
+set apart phr
+rush v2
+let smb down phr
+let smb. down gently phr
+in excess phr
+raffish adj
+filament n
+filamentary | filamentous adj
+end in a draw phr
+fertilizer | fertiliser n
+streaked adj
+sheath n
+sheathe v
+sheathed adj
+sheaf v/n
+sheave v1
+sheave n2
+go for it phr
+lay off phr
+undeniably adv
+chip in phr
+at bay phr
+under your belt phr
+dialed call phr
+be dialled in phr
+normalcy | normality n
+composure n
+terra firma phr
+terra incognita phr
+humanly possible phr
+untrustworthy adj
+dislodge v1
+dislodge v2
+dislodge v3
+uncharted territory phr
+contested territory phr
+unchaste adj
+uncharted area phr
+uncharted adj
+islet n
+herbaceous adj
+ad infinitum phr
+sentry n
+sentinel v/n
+vixen n1
+vixen n2
+vixenish adj
+meander v2
+heckler n
+heckle v/n
+nonplus v/n
+lastly adv
+duvet n
+dulcet adj
+in a pinch phr
+kick-start v/n
+burp v/n
+galore adj
+marina n
+desensitize v
+wintry adj1
+wintry adj2
+frosty adj1
+frosty adj2
+intrepid adj
+intrepid explorer phr
+trepidation n
+trepidatious adj
+trephine v
+brave the elements phr
+revelry n
+reveller n
+flaneur n
+downcast adj1
+downcast adj2
+the above phr
+necessitate v1
+necessitate v2
+necessitarian n/adj
+necessities of life phr
+wishful thinking phr
+what a drag phr
+crusade v/n
+damp squib phr
+squib n
+smash hit phr
+succinctly adv
+succinct adj
+succinct reply phr
+evil day phr
+put off the evil day phr
+homogeneous adj
+heterogeneous adj
+equanimity n
+equanimous adj
+make the cut phr
+reinstate v
+reinstatement n
+dates n
+brittle adj
+brittle bone disease phr
+brittleness n
+subsidize v
+subsidy n
+altogether adv
+staged adj1
+staged adj2
+stage n2
+stage v3
+factor n2
+factor n1
+overlooked adj
+hooked adj2
+hooked adj1
+jizz | jism v/n
+reciprocate feelings phr
+ruction /s n
+throng v/n
+spellbinding adj
+spellbound adj
+spellbind v
+hang-up n
+hull n
+hull down phr
+hull out phr
+fatigues n1
+fatigues n2
+on the cusp phr
+jam n
+mojo n
+you lost your mojo phr
+umbrella term phr
+transmissible adj
+hammock n
+embroidery n1
+embroidery n2
+walk over phr
+tally trade phr
+tallyho v/excl
+tally v/n 1
+tally v/n 2
+tally v3
+take the liberty of phr
+charnel house phr
+charmless adj
+straw man phr
+straw poll phr
+legume n
+leguminous adj
+take it on the chin phr
+take it or leave it phr
+on purpose phr
+shattered adj1
+shattered adj2
+shatter smb's confidence phr
+weasel words phr
+weasel out phr
+weasel n
+laden adj2
+laden adj1
+lade v
+involuntary manslaughter charge phr
+involuntary adj
+relate to phr
+at will phr
+godsend n
+annunciate v
+balloon v
+polish off phr
+employ v2
+wring one's hands phr
+wring something's neck phr
+wringer n
+wringing wet phr
+gemini n
+geminate v/adj
+antler n
+come to terms phr
+like a sucked orange phr
+be/get sucked in phr
+be drawn into phr
+Hog – shearing phr
+ignoramus n
+spiked adj2
+spiked adj1
+through the medium of phr
+cadre n
+look down on phr
+apart from phr
+shanghai v
+on borrowed time phr
+overshoot v/n
+overshoot the mark phr
+undershoot v/n
+bough n
+decidedly adv
+somehow or other phr
+watch out phr
+equate to phr
+wring v1
+wring v2
+throttle v1
+throttle v2
+throttle back phr
+sumptuous adj
+sumptuously adv
+hunger strike phr
+riveting adj
+lump together phr
+velcro v/n
+count the cost phr
+casket n1
+casket n2
+cask n
+bodily adj1
+bodily movement phr
+bodily adv2
+bodily adv3
+jet-setting adj
+jet-setter n
+jet set phr
+postlude n
+preclude v
+smoking gun phr
+epiphany n
+theophany n
+dissuade v
+give in phr
+mood-altering adj
+ingest v
+stay put phr
+the key to phr
+internalize v
+suck it up phr
+suck it and see phr
+suck up /to phr
+kiss up to phr
+deus ex machina phr
+vein n2
+in the same vein phr
+next to nothing phr
+pancaked adj
+pancake-shaped adj
+pancake v/n
+evenly adv
+divide smth evenly phr
+arrive at an idea phr
+hit upon an idea phr
+billow v/n
+derail v1
+derail v2
+intertwine v
+intertwist v
+demark v
+demarcate v
+biota n
+hazmat n
+aptly adv
+disarray v/n
+calibrate v
+anything but phr
+root cause phr
+underlying reason phr
+all the better phr
+on the flip side phr
+dial down phr
+repertoire n2
+repertoire n1
+repertory n
+modus operandi phr
+delve into phr
+forfeited adj
+garden-variety adj
+blankly adv
+makeshift weapons phr
+makeshift adj
+gropingly adv
+groper n
+grope for an idea phr
+grope v1
+grope v2
+watchword n
+bothersome adj
+well-groomed adj
+safeguard v/n
+judgment call phr
+ideas well is dry phr
+self-delusion n
+self-deception n
+icing on the cake phr
+hindsight n
+post hoc phr
+akin adj
+entail v
+entail a loss phr
+ward off phr
+take a toll phr
+spud v/n 1
+spud n2
+buoy v2
+buoy v/n 1
+lifebuoy n
+buoyancy n
+part and parcel phr
+with twenty-twenty hindsight phr
+twenty-twenty vision phr
+modus vivendi phr
+not altogether phr
+fragility n1
+fragility n2
+frailness n
+frailty n
+composed adj
+mellifluous adj
+stand sentinel phr
+medley n
+medley swimmer phr
+leisurely adj2
+leisurely adv1
+ineffable adj
+ineffably adv
+affable adj
+approachable adj1
+approachable adj2
+unapproachable adj1
+unapproachable adj2
+wear v2
+beeline n
+make a beeline for phr
+bedevil v
+deflect v
+sleuth v/n
+descend on phr
+ire n
+parchment n
+bramble n
+finch n
+admixture n
+peaty adj
+pounce v/n 1
+pounce v2
+foetal position phr
+aspen n/adj
+botheration n/excl
+aboriginal population phr
+glug v/n
+in a matter of days phr
+depose v
+drag out phr
+drag out a miserable existence phr
+hand out phr
+handout n
+expressly adv
+tantalize v
+tantalizingly adv
+tantalizing adj
+strike a chord phr
+jaw-dropping adj
+bent on phr
+exude confidence phr
+off-ramp n
+disburse v
+disburden v
+cobbled adj
+cobblestone n
+cobble together phr
+thicket n
+covert n2
+abiding adj
+abiding faith phr
+rock-solid adj
+steel v2
+steel oneself phr
+showcase v
+gravity n2
+gravity n1
+zero gravity phr
+force of gravity phr
+abhorrent adj
+usher in an age phr
+turn a blind eye phr
+fervour n
+stir up a nest of hornets phr
+lowball v
+footwork n1
+footwork n2
+disgraced adj
+embellish v
+embellish facts phr
+embellishment n
+embellisher n
+embellished adj
+puppeteer n
+socialite n
+dovetail v/n 1
+dovetail v/n 2
+stooge v/n
+sycophant n
+sycophancy n
+sycophantic adj
+take by storm phr
+at the behest phr
+behest n
+at arm's length phr
+attained age phr
+tip into phr
+baklava n
+corporeal adj
+incorporeal adj
+untermensch n
+ulterior motive phr
+tetchy adj
+tetchy subject phr
+twentysomething n/adj
+zap v1
+zap v2
+electrocute v
+billow cloud phr
+billow of smoke phr
+filled with trepidation phr
+in a matter of phr
+overthrow v1
+overthrow v/n 2
+biliousness n
+bilious adj
+hotchpotch n1
+hotchpotch n2
+juxtapose v
+bete noire phr
+languorous adj1
+languorous adj2
+languor n
+langur n
+overbearing manner phr
+mesmeric adj
+opine v
+quail n1
+quail v2
+boundless adj
+witticism n
+witticize v
+enthralling adj
+enthral | enthrall v
+inkling n
+cup v2
+tantamount adj
+tantamount to declaring war phr
+secularized adj
+poster boy phr
+superfluity n
+decrepit adj1
+decrepit adj2
+decrepit state phr
+protean adj
+cut costs to the bone phr
+hymen n
+to the bone phr
+lint n
+Pyrrhic victory phr
+war of attrition phr
+enunciation n1
+enunciation n2
+enunciate v1
+enunciate v2
+dowry n
+indeterminate adj
+downtrodden adj1
+downtrodden adj2
+far-reaching adj
+far-reaching consequences phr
+hash house phr
+hash v/n
+make a hash of smth. phr
+incandescence n
+incandescent adj1
+incandescent adj2
+incandesce v
+chart v2
+mammoth n/adj
+sledgehammer n
+cause and effect phr
+recourse n
+causative adj
+causative agent phr
+panoply n1
+panoply n3
+panoply n2
+plea-bargain n
+haywire adj
+go haywire phr
+labyrinthine adj
+adduced evidence phr
+adduce v
+malaise n
+empirically adv
+addled adj
+befuddled adj
+addle v1
+addle v2
+befuddle v
+assuage v
+maladaptive adj
+battery of tests phr
+lace with phr
+springboard n
+supine adj
+supinely adv1
+supinely adv2
+at first glance phr
+subsume v
+dolefully adv
+ferryboat n
+ferryman n
+litter /with v2
+moniker | monicker n
+rumbustious adj
+rambunctious adj
+plateau n
+cohabit v
+cohabitant n
+cohabitation n
+edifice n1
+edifice n2
+edify v
+edification n
+edifying adj
+bode v
+bode ill phr
+bode well phr
+portend v
+portent n
+clique n
+unutterably adv
+camomile n
+pervade v
+stratum n1
+stratum n2
+hone v/n
+mope v/n
+mopes n
+mope about phr
+moped n
+hackles n
+with his hackles up phr
+jitter v
+jitters n
+jitter n
+jittery adj
+furphy n
+endow v1
+endow v2
+endowment n1
+endowment /s n2
+circuitous adj
+circuitously adv
+circuitry n
+break loose phr
+panhandler n
+panhandle v/n
+panhandle n2
+truss /up v2
+truss v/n 1
+swat v/n
+swat a gnat phr
+innately adv
+congenitally adv
+affective adj
+sequentially adv
+reprieve v/n
+inveterate adj
+inveterately adv
+all the more phr
+shake one's booty phr
+heat n2
+best fit phr
+swanky adj
+swansong n
+fall prey phr
+decry v
+avuncular adj
+absorbed adj
+poplar n
+brook n
+complicit adj
+depredation n
+livestock n
+aptitude test phr
+aptitude n
+efflorescence n
+effloresce v
+spring up phr
+contagion n
+patina n
+unsympathetic adj
+archetypal adj
+avocation n
+evidentiary material phr
+evidentiary adj
+evidential adj
+pressing need phr
+putative adj
+corny adj1
+corny adj2
+mawkishly adv
+mawkish adj
+such-and-such adj
+so-and-so adj1
+so-and-so n2
+preeminent adj
+trivialize v
+triviality n
+splendour n
+interspersed /with adj
+intersperse v1
+intersperse v2
+enervating adj
+enervate v
+woe betide phr
+woe n
+incandescent with rage phr
+have no inkling phr
+obviate v
+undiluted adj
+diluted adj
+dilute v/adj 1
+dilute adj2
+disinherit v
+disillusionment n
+aside adv1
+aside adv2
+joking aside phr
+compound v2
+compound v3
+the penny drops phr
+covet v
+the whole enchilada phr
+the big enchilada phr
+smithereens n
+partway adv
+balls of feet phr
+splinter faction phr
+purview n
+thawing adj
+thaw in relations phr
+thaw v/n
+thaw v2
+beguiling adj
+beguile v1
+beguile v2
+beguile v3
+wilfully adv
+pummel v
+my treat phr
+whippy adj
+up to your eyeballs phr
+swathe v/n
+to stir smb's blood phr
+landlubber n
+to get the hang of smth phr
+stickler n
+state of things phr
+in cold blood phr
+much-heralded adj
+rancid adj1
+rancid adj2
+rationale n1
+rationale n2
+malodorous adj
+skunk n
+oily adj
+sleep in phr
+forte n
+strong point phr
+much ado about nothing phr
+ado n
+wayfarer n
+much-awaited adj
+pay the piper phr
+gatecrash v
+link arms phr
+unattainable adj
+clear-cut adj
+foreseeable adj
+partly to blame phr
+spitting distance phr
+envoy n
+baulk v
+balk v
+realign v
+realign yourself phr
+recalibrate v
+needless to say phr
+unappetizing adj
+unbeknown adj
+halve v
+irrespective of phr
+overzealous adj
+malingerer n
+extol v
+outstrip v
+inordinate adj
+inordinate response phr
+inordinately adv
+onlooker n
+underhand adj1
+underhand adj2
+bafflement n
+dimly adv
+anecdotally adv
+anecdotal case phr
+anecdotal evidence phr
+anecdotical adj
+boon n
+boon companion phr
+boondocks n
+promisingly adv
+piecemeal adj/adv
+piecemeal reforms phr
+malinger v
+balky | baulky (uk) adj
+shy away phr
+of interest phr
+landmark n1
+landmark n/adj 2
+landmark in relations phr
+nauseated adj
+nauseating adj
+nauseatingly adv
+at our own peril phr
+lend credence to something phr
+credence n
+letters of credence phr
+drip n2
+onset n1
+onset n2
+cross-purposes n
+acquitted adj
+acquittal n
+psychogenic | psychogenetic adj
+psychosomatic adj
+emergence n
+twitch v/n 1
+longitudinal adj
+tellingly adv
+go to pieces phr
+snow-clad phr
+stroke of genius phr
+hallmark v/n
+tight-knit adj
+in large part phr
+newfangled adj
+alarmist n/adj
+push v2
+stretch n2
+home stretch phr
+by-product n
+pinpoint n1
+with pinpoint accuracy phr
+pinpoint v2
+damning adj
+damning evidence phr
+indisposed adj1
+indisposed adj2
+regrettably adv
+untapped adj
+date back phr
+much-touted adj
+oomph phr
+voluntarily adv
+hamper v
+hampering effect phr
+parcel out phr
+water down phr
+one-off n/adj
+skew v1
+skew v2
+blitz v/n 1
+blitz v2
+get to grips with something phr
+recollection n
+wage war phr
+battle cry phr
+far cry phr
+far cry from what imagined phr
+perennially adv
+perennial adj1
+perennial n/adj 2
+biennial n/adj
+estranged adj
+estrange v
+without stint phr
+stint v/n 1
+stint v2
+unstinting adj
+unstintingly | unstintedly adv
+unstipulated adj
+chassis n
+bawdy adj
+bawdy house phr
+brothel n
+bordello n
+vitriol n1
+vitriol n2
+causticity n1
+causticity n2
+vitriolic adj
+cheerfulness n
+joviality n
+long gone phr
+take into own hands phr
+take the law into one's own hands phr
+hypervigilance n
+jangle nerves phr
+dwell on phr
+rife /предикат adj1
+rife /with adj2
+prime v2
+primer n1
+primer n2
+stigmatize v
+boondoggle v
+stroke of luck phr
+for someone's edification phr
+hone one's skills phr
+debilitate v
+betide v
+add to woes phr
+without more ado phr
+obviate the need for phr
+ditty n
+suicidal adj
+ideation n
+cape n1
+cape n2
+tap v4
+tap v2
+tap v3
+on tap phr
+intriguingly adv
+tamp v
+homage n
+pay homage to someone phr
+hold your tongue phr
+inane adj
+fiddly adj
+cohort n1
+cohort n2
+depletion n
+death knell phr
+knell v
+eke out phr
+eke out a miserable existence phr
+acuity n
+acumen n
+engender v
+tomboy n
+tomboyish adj
+wiry adj1
+wiry adj2
+if anything phr
+unwittingly adv
+precocity n
+precociously adv
+precocious adj
+uphill n/adj/adv 1
+uphill adj2
+unfairly adv
+bestowal n
+bestir v
+halo effect phr
+burgeoning market phr
+burgeon out phr
+burgeon v
+inconsequential adj
+inconsequent adj1
+belie v
+on the eve phr
+appraisingly adv
+appraiser n
+appraise v
+uncompliant adj
+deluge of rain phr
+deluge n
+downpour n
+finesse v/n 1
+finesse v2
+in a 1 mile stretch of road phr
+tangentially adv1
+tangentially adv2
+trepidity n
+stimulant n/adj
+au fait phr
+hush money phr
+granular adj
+granular earth phr
+granularity n
+arraignment n
+arraign v
+closet adj2
+neck and neck phr
+doll up phr
+bulge at the seams phr
+bulged budget phr
+bulge v/n
+incendiary adj1
+incendiary adj2
+serf n
+neuter v/n/adj
+implore v
+imploring adj
+pleading adj
+pleadingly adv
+deranged adj
+mental derangement phr
+erroneously adv
+erroneous adj
+cove n
+mishap n
+liege n
+lieges /the n2
+scaremonger n
+convive n
+give little credence to smb phr
+lend credence to fears that phr
+transverse adj
+latitudinal adj
+not stint phr
+scant v2
+scant adj1
+berate v
+fickle adj
+occur /to v
+doctored evidence phr
+pothole n
+defoliate v
+expend v
+in shreds phr
+take offence phr
+out of your depth phr
+equestrian n/adj
+spell the death of smth. phr
+bear v2
+assailant n
+unconsidered adj
+meet the eye phr
+there is more to something than meets the eye phr
+soldierly adj/adv
+soldiering n
+detachment n
+gel v/n1
+gel v2
+gel v3
+safe bet phr
+proverbial adj2
+budding adj
+snowball v
+bookend v/n
+feed /into phr
+not the case phr
+jolt v/n 1
+jolt v/n 2
+overshadow v
+go hand in hand phr
+rudimentary adj
+rudiments n
+rehash v/n 1
+rehash v2
+cognition n
+straddle v2
+trial-and-error approach phr
+pockmark n
+bug n2
+bug n3
+fight off phr
+not much of a stretch phr
+on track phr
+sobering adj
+soberly adv
+soberly dressed phr
+sober adj2
+unnecessarily adv
+take-home adj
+ride on phr
+prompt v3
+embroiled adj
+push comes to shove phr
+genesis n
+fireside n
+beast of burden phr
+malady n
+overlapped adj
+overlap v/n 1
+overlap v2
+in effect phr
+ripple effect phr
+angst n
+undertaker n
+fickleness n
+fickle consumer phr
+erode v2
+erode v1
+perpetuate v
+clemency n1
+clemency n2
+inclemency n
+inclement adj
+clement adj1
+clement adj2
+lionize v
+fete v/n
+fête champêtre phr
+new lease of life phr
+redeem yourself phr
+judgemental | judgmental adj1
+judgemental | judgmental adj2
+interwoven adj
+interweave v
+up-front | up front adj/adv
+convivial adj1
+convivial adj2
+you made your bed, you lie in it phr
+align /with v2
+saucepan n
+shortsightedness n
+short-sighted adj
+long-sighted adj
+skim v1
+skim v2
+skim /through v3
+cull v/n 1
+cull v2
+on the surface phr
+nature-nurture debate phr
+touch on phr
+shore up phr
+change of heart phr
+recoup v
+stop dead in your tracks phr
+marshal v1
+amok v/n/adj
+on the rocks phr
+gasket n
+be set on phr
+part ways phr
+irk v
+irksomely adv
+irksome adj
+cussword n
+cuss v/n
+blaze a trail phr
+trailblazer n
+cut ties with smb phr
+smoke and mirrors phr
+proximity n1
+proximity n2
+pagoda n
+ablaze adj1
+ablaze adj2
+ablaze adj3
+to set smth. ablaze phr
+into the ground phr
+choke on that, sucka phr
+cognizance n
+capitalize v
+behind the scenes phr
+maintain v2
+down-to-earth adj
+hot under the collar phr
+different kettle of fish phr
+small arms phr
+unsolicited adj
+funneled adj
+funnel v/n
+unfazed adj
+faze v
+field v2
+cascade v/n
+mastermind v/n
+bevy n1
+bevy n2
+plume n2
+plume n1
+shifty adj1
+shifty adj2
+tirade n
+plead not guilty phr
+show-stopper n
+chunky adj1
+chunky adj2
+by yourself phr
+indiscriminately adv
+on health grounds phr
+honour promise phr
+turn over a new leaf зрк
+school of fish phr
+sinking feeling phr
+beckon v/n
+camaraderie n
+adieu n/excl
+precisely adv
+nosy | nosey adj
+fuel v2
+twerp n
+nincompoop n
+armed with phr
+nexus n
+bludgeon v/n 1
+bludgeon v2
+glean v1
+glean v2
+goodbye for now phr
+deep down phr
+resonate v
+heyday n
+tendril n
+marinate v
+business acumen phr
+demonstrate acumen phr
+health-promoting behavior phr
+inanity n
+inconsequence n
+inconsequently adv
+consequential adj
+refractory adj
+unjustly adv
+wittingly adv
+involuntarily adv
+molasses n
+gean n
