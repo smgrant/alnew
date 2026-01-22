@@ -20,7 +20,7 @@ function synonyms(string $str)
 	//echo "<pre>"; print_r($matches);
 	
 	$str = preg_replace($pattern, "$2<br>$1", $str);
-	$str = preg_replace("%<span style='color: navy'>%", '<span class="al-w-allmeans">', $str);
+	//$str = preg_replace("%<span style='color: navy'>.*?</span>(.*)%", '<span class="al-w-allmeans">$1</span>', $str);
 	//$str = str_ireplace("</li>", '', $str);
 	//$str = str_ireplace("|", '<br>', $str);
 	$arr["syn_pure"] = $syn_pure; 
